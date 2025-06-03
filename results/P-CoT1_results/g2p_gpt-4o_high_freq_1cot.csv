@@ -1,0 +1,1043 @@
+grapheme,ground_truth_phoneme,predicted_phoneme,model
+absolute,ˈæbsəlˌut,/ˈæbsəˌlut/,gpt-4o
+academic,ˌækədˈɛmɪk,/ˌækəˈdɛmɪk/,gpt-4o
+acceptance,æksˈɛptəns,/əkˈsɛptəns/,gpt-4o
+accommodation,əkˌɑmədˈeɪʃən,/əˌkɑməˈdeɪʃən/,gpt-4o
+accordance,əkˈɔːɹdəns,/əˈkɔɹdəns/,gpt-4o
+acronyms,ˈækɹənɪmz,/ˈækɹəˌnɪmz/,gpt-4o
+activist,ˈæktəvəst,The General American English phonemic transcription for 'activist' is /ˈæktɪvɪst/.,gpt-4o
+adaptive,ədˈæptɪv,/əˈdæptɪv/,gpt-4o
+adhere,ədhˈɪɹ,/ədˈhɪɹ/,gpt-4o
+admire,ædmˈaɪɹ,/ədˈmaɪɹ/,gpt-4o
+admired,ədmˈaɪɚd,/ədˈmaɪɹd/,gpt-4o
+advisory,ædvˈaɪzɚi,/ədˈvaɪzəɹi/,gpt-4o
+afraid,əfɹˈeɪd,/əˈfɹeɪd/,gpt-4o
+afro,ˈæfɹoʊ,/ˈæfɹoʊ/,gpt-4o
+agnes,ˈægnɪs,The General American English phonemic transcription for 'Agnes' is /ˈæɡnəs/.,gpt-4o
+agreement,əgɹˈiːmənt,/əˈɡɹimənt/,gpt-4o
+alert,əlˈɚt,/əˈlɝt/,gpt-4o
+allergic,əlˈɚdʒɪk,/əˈlɝdʒɪk/,gpt-4o
+alphabet,ˈælfəbˌɛt,The General American English phonemic transcription for 'alphabet' is /ˈælfəˌbɛt/.,gpt-4o
+alps,ˈælps,The General American English phonemic transcription for 'alps' is /ælps/.,gpt-4o
+ama,ˈɑːmə,The General American English phonemic transcription for 'ama' is /ˈɑmə/.,gpt-4o
+amp,ˈæmp,The General American English phonemic transcription for 'amp' is /æmp/.,gpt-4o
+amps,ˈæmps,The General American English phonemic transcription for 'amps' is /æmps/.,gpt-4o
+analytical,ˌænəlˈɪtɪkəl,/ˌænəˈlɪtɪkəl/,gpt-4o
+anchorage,ˈæŋkɚədʒ,/ˈæŋkəɹɪdʒ/,gpt-4o
+answer,ˈænsɚ,The General American English phonemic transcription for 'answer' is /ˈænsɚ/.,gpt-4o
+answers,ˈænsɚz,/ˈænsɚz/,gpt-4o
+anthem,ˈænθəm,The General American English phonemic transcription for 'anthem' is /ˈænθəm/.,gpt-4o
+anthropology,ˌænθɹəpˈɑːlədʒi,/ˌænθɹəˈpɑlədʒi/,gpt-4o
+apologize,əpˈɑːlədʒˌaɪz,/əˈpɑləˌdʒaɪz/,gpt-4o
+apparently,əpˈɛɹəntli,/əˈpɛɹəntli/,gpt-4o
+approximately,əpɹˈɑːksəmətli,/əˈpɹɑksɪmətli/,gpt-4o
+aruba,ɚˈuːbə,/əˈɹubə/,gpt-4o
+ascent,əsˈɛnt,The General American English phonemic transcription for 'ascent' is /əˈsɛnt/.,gpt-4o
+ask,ˈæsk,The General American English phonemic transcription for 'ask' is /æsk/.,gpt-4o
+asks,ˈæsks,The General American English phonemic transcription for 'asks' is /æsks/.,gpt-4o
+aspire,əspˈaɪɹ,/əˈspaɪɹ/,gpt-4o
+assembly,əsˈɛmbli,/əˈsɛmbli/,gpt-4o
+attentive,ətˈɛntɪv,/əˈtɛntɪv/,gpt-4o
+attitude,ˈætətˌud,/ˈæɾəˌtud/,gpt-4o
+attract,ətɹˈækt,/əˈtɹækt/,gpt-4o
+attracted,ətɹˈæktəd,/əˈtɹæktɪd/,gpt-4o
+auction,ˈɑːkʃən,The General American English phonemic transcription for 'auction' is /ˈɔkʃən/.,gpt-4o
+automobile,ˈɔːtəmoʊbˌil,/ˈɔtəmoʊˌbil/,gpt-4o
+awake,əwˈeɪk,/əˈweɪk/,gpt-4o
+azerbaijani,ˌɑzɚbaɪdʒˈɑːni,/ˌæzɚbaɪˈdʒɑni/,gpt-4o
+bahamas,bəhˈɑːməz,/bəˈhɑməz/,gpt-4o
+barber,bˈɑːɹbɚ,/ˈbɑɹbɚ/,gpt-4o
+basement,bˈeɪsmənt,/ˈbeɪsmənt/,gpt-4o
+basketball,bˈæskətbˌɔl,/ˈbæskɪtˌbɔl/,gpt-4o
+bathtub,bˈæθtəb,/bæθtʌb/,gpt-4o
+baxter,bˈækstɚ,/bækstɚ/,gpt-4o
+beautifully,bjˈuːtəfli,/ˈbjuɾəfəli/,gpt-4o
+beauty,bjˈuːti,/ˈbjuti/,gpt-4o
+beaver,bˈiːvɚ,/ˈbivɚ/,gpt-4o
+behalf,bɪhˈæf,The General American English phonemic transcription for 'behalf' is /bɪˈhæf/.,gpt-4o
+beings,bˈiːɪŋz,The General American English phonemic transcription for 'beings' is /ˈbiɪŋz/.,gpt-4o
+belong,bɪlˈɔːŋ,/bɪˈlɔŋ/,gpt-4o
+belonged,bɪlˈɔːŋd,/bɪˈlɔŋd/,gpt-4o
+belonging,bɪlˈɔːŋɪŋ,/bɪˈlɔŋɪŋ/,gpt-4o
+belongs,bɪlˈɔːŋz,The General American English phonemic transcription for 'belongs' is /bɪˈlɔŋz/.,gpt-4o
+bend,bˈɛnd,/bɛnd/,gpt-4o
+bending,bˈɛndɪŋ,The General American English phonemic transcription for 'bending' is /ˈbɛndɪŋ/.,gpt-4o
+beneficial,bˌɛnəfˈɪʃəl,/ˌbɛnəˈfɪʃəl/,gpt-4o
+bent,bˈɛnt,The General American English phonemic transcription for 'bent' is /bɛnt/.,gpt-4o
+bethany,bˈɛθəni,The General American English phonemic transcription for 'bethany' is /ˈbɛθəni/.,gpt-4o
+bid,bˈɪd,/bɪd/,gpt-4o
+bidding,bˈɪdɪŋ,/bɪdɪŋ/,gpt-4o
+bids,bˈɪdz,/bɪdz/,gpt-4o
+biker,bˈaɪkɚ,/ˈbaɪkɹ̩/,gpt-4o
+bingo,bˈɪŋgoʊ,The General American English phonemic transcription for 'bingo' is /ˈbɪŋɡoʊ/.,gpt-4o
+bird,bˈɚd,/bɝd/,gpt-4o
+birds,bˈɚdz,The General American English phonemic transcription for 'birds' is /bɝdz/.,gpt-4o
+blair,blˈɛɹ,/blɛɹ/,gpt-4o
+blazer,blˈeɪzɚ,/blˈeɪzɹ̩/,gpt-4o
+blew,blˈuː,/blu/,gpt-4o
+bling,blˈaɪn,The General American English phonemic transcription for 'bling' is /blɪŋ/.,gpt-4o
+bliss,blˈɪs,/blɪs/,gpt-4o
+blitz,blˈɪts,/blɪts/,gpt-4o
+blow,blˈoʊ,/bloʊ/,gpt-4o
+blown,blˈoʊn,The General American English phonemic transcription for 'blown' is /bloʊn/.,gpt-4o
+blows,blˈoʊz,The General American English phonemic transcription for 'blows' is /bloʊz/.,gpt-4o
+bondage,bˈɑːndɪdʒ,The General American English phonemic transcription for 'bondage' is /ˈbɑndɪdʒ/.,gpt-4o
+bonus,bˈoʊnəs,/ˈboʊnəs/,gpt-4o
+boone,bˈuːn,/bun/,gpt-4o
+boot,bˈuːt,/but/,gpt-4o
+boots,bˈuːts,/buts/,gpt-4o
+bordeaux,bɔɹdˈoʊ,/bɔɹˈdoʊ/,gpt-4o
+border,bˈɔːɹdɚ,The General American English phonemic transcription for 'border' is /ˈbɔɹdɚ/.,gpt-4o
+borders,bˈɔːɹdɚz,The General American English phonemic transcription for 'borders' is /ˈbɔɹdɚz/.,gpt-4o
+born,bˈɔːɹn,/bɔɹn/,gpt-4o
+bottom,bˈɑːtəm,The General American English phonemic transcription for 'bottom' is /ˈbɑɾəm/.,gpt-4o
+bottoms,bˈɑːtəmz,/ˈbɑtəmz/,gpt-4o
+box,bˈɑːks,The General American English phonemic transcription for 'box' is /bɑks/.,gpt-4o
+boxes,bˈɑːksəz,The General American English phonemic transcription for 'boxes' is /ˈbɑksɪz/.,gpt-4o
+boxing,bˈɑːksɪŋ,/ˈbɑksɪŋ/,gpt-4o
+brass,bɹˈæs,/bræs/,gpt-4o
+breeze,bɹˈiːz,The General American English phonemic transcription for 'breeze' is /bɹiz/.,gpt-4o
+brett,bɹˈɛt,/bɹɛt/,gpt-4o
+brewing,bɹˈuːɪŋ,The General American English phonemic transcription for 'brewing' is /ˈbɹuɪŋ/.,gpt-4o
+bridal,bɹˈaɪdəl,The General American English phonemic transcription for 'bridal' is /ˈbɹaɪdəl/.,gpt-4o
+brigade,bɹəgˈeɪd,/brɪˈɡeɪd/,gpt-4o
+brit,bɹˈɪt,The General American English phonemic transcription for 'brit' is /bɹɪt/.,gpt-4o
+broker,bɹˈoʊkɚ,/bɹoʊkɚ/,gpt-4o
+brotherhood,bɹˈʌðɚhˌʊd,The General American English phonemic transcription for 'brotherhood' is /ˈbɹʌðɚˌhʊd/.,gpt-4o
+brutal,bɹˈuːtəl,/brutl̩/,gpt-4o
+bulk,bˈʌlk,/bʌlk/,gpt-4o
+bunny,bˈʌni,The General American English phonemic transcription for 'bunny' is /ˈbʌni/.,gpt-4o
+burst,bˈɚst,/bɝst/,gpt-4o
+bursting,bˈɚstɪŋ,The General American English phonemic transcription for 'bursting' is /ˈbɝstɪŋ/.,gpt-4o
+burundi,bɚˈʌndi,/bəˈɹʊndi/,gpt-4o
+businesses,bˈɪznəsəz,The General American English phonemic transcription for 'businesses' is /ˈbɪznəsɪz/.,gpt-4o
+but,bˈʌt,/bʌt/,gpt-4o
+by,bˈaɪ,The General American English phonemic transcription for 'by' is /baɪ/.,gpt-4o
+bye,bˈaɪ,/baɪ/,gpt-4o
+bypass,bˈaɪpˌæs,/ˈbaɪˌpæs/,gpt-4o
+cafe,kəfˈeɪ,/kæˈfeɪ/,gpt-4o
+calculator,kˈælkjəlˌeɪtɚ,/ˈkælkjəˌleɪtɚ/,gpt-4o
+calibration,kˌæləbɹˈeɪʃən,/kæləˈbɹeɪʃən/,gpt-4o
+caller,kˈɔːlɚ,The General American English phonemic transcription for 'caller' is /ˈkɔlɚ/.,gpt-4o
+calorie,kˈælɚi,/kæləri/,gpt-4o
+cambridge,kˈeɪmbɹɪdʒ,/kˈeɪmbrɪdʒ/,gpt-4o
+came,kˈeɪm,The General American English phonemic transcription for 'came' is /keɪm/.,gpt-4o
+capital,kˈæpətəl,/ˈkæpɪtəl/,gpt-4o
+catalyst,kˈætələst,The General American English phonemic transcription for 'catalyst' is /ˈkætəlɪst/.,gpt-4o
+cautious,kˈɔːʃəs,The General American English phonemic transcription for 'cautious' is /ˈkɔʃəs/.,gpt-4o
+cd,sˈiːdˈiː,"The General American English phonemic transcription for 'cd' (as in the abbreviation for ""compact disc"") is /ˌsiˈdi/.",gpt-4o
+cecilia,sɪsˈiːljə,/səˈsɪliə/,gpt-4o
+centennial,sɛntˈɛniəl,/sɛnˈtɛniəl/,gpt-4o
+centre,sˈɛntɚ,The General American English phonemic transcription for 'centre' is /ˈsɛntɚ/.,gpt-4o
+centres,sˈɛntɚz,The General American English phonemic transcription for 'centres' is /ˈsɛntɚz/.,gpt-4o
+certainty,sˈɚtənti,/ˈsɝtnti/,gpt-4o
+chang,tʃˈæŋ,"The word 'chang' does not have a standard pronunciation in General American English as it is not a common English word. However, if we assume it is pronounced similarly to the common English word 'change' without the final /dʒ/ sound, the transcription would be /tʃæŋ/.",gpt-4o
+characteristic,kˌɛɹəktɚˈɪstɪk,/ˌkɛɹɪktəˈɹɪstɪk/,gpt-4o
+chat,tʃˈæt,The General American English phonemic transcription for 'chat' is /tʃæt/.,gpt-4o
+chats,tʃˈæts,/tʃæts/,gpt-4o
+chatting,tʃˈætɪŋ,/ˈtʃætɪŋ/,gpt-4o
+cheat,tʃˈiːt,/tʃit/,gpt-4o
+cheating,tʃˈiːtɪŋ,/ˈtʃitɪŋ/,gpt-4o
+cheats,tʃˈiːts,/tʃits/,gpt-4o
+chef,ʃˈɛf,/ʃɛf/,gpt-4o
+chest,tʃˈɛst,The General American English phonemic transcription for 'chest' is /tʃɛst/.,gpt-4o
+chests,tʃˈɛsts,/tʃɛsts/,gpt-4o
+chevron,ʃˈɛvɹən,/ˈʃɛvɹən/,gpt-4o
+chic,ʃˈiːk,/ʃik/,gpt-4o
+chicken,tʃˈɪkən,/ˈtʃɪkən/,gpt-4o
+chickens,tʃˈɪkənz,/ˈtʃɪkənz/,gpt-4o
+chrome,kɹˈoʊm,The General American English phonemic transcription for 'chrome' is /kɹoʊm/.,gpt-4o
+clash,klˈæʃ,The General American English phonemic transcription for 'clash' is /klæʃ/.,gpt-4o
+clearance,klˈɪɹəns,/ˈklɪɹəns/,gpt-4o
+climax,klˈaɪmˌæks,/ˈklaɪmæks/,gpt-4o
+clinton,klˈɪntən,/ˈklɪntən/,gpt-4o
+cloves,klˈoʊvz,The General American English phonemic transcription for 'cloves' is /kloʊvz/.,gpt-4o
+clutter,klˈʌtɚ,The General American English phonemic transcription for 'clutter' is /ˈklʌtɚ/.,gpt-4o
+coalition,kˌoʊəlˈɪʃən,/ˌkoʊəˈlɪʃən/,gpt-4o
+code,kˈoʊd,The General American English phonemic transcription for 'code' is /koʊd/.,gpt-4o
+codes,kˈoʊdz,/kodz/,gpt-4o
+col,kˈoʊl,/kɑl/,gpt-4o
+cole,kˈoʊl,The General American English phonemic transcription for 'cole' is /koʊl/.,gpt-4o
+colleague,kˈɑːlig,The General American English phonemic transcription for 'colleague' is /ˈkɑliɡ/.,gpt-4o
+colleagues,kˈɑːligz,The General American English phonemic transcription for 'colleagues' is /ˈkɑliɡz/.,gpt-4o
+collected,kəlˈɛktəd,The General American English phonemic transcription for 'collected' is /kəˈlɛktɪd/.,gpt-4o
+collecting,kəlˈɛktɪŋ,/kəˈlɛktɪŋ/,gpt-4o
+color,kˈʌlɚ,The General American English phonemic transcription for 'color' is /ˈkʌlɚ/.,gpt-4o
+colored,kˈʌlɚd,/ˈkʌlɚd/,gpt-4o
+colors,kˈʌlɚz,The General American English phonemic transcription for 'colors' is /ˈkʌləɹz/.,gpt-4o
+comeback,kˈʌmbˌæk,The General American English phonemic transcription for 'comeback' is /ˈkʌmbæk/.,gpt-4o
+comet,kˈɑːmət,/ˈkɑmɪt/,gpt-4o
+comfy,kˈʌmfi,The General American English phonemic transcription for 'comfy' is /ˈkʌmfi/.,gpt-4o
+commerce,kˈɑːmɚs,/ˈkɑmɝs/,gpt-4o
+commonly,kˈɑːmənli,/ˈkɑmənli/,gpt-4o
+commute,kəmjˈuːt,/kəˈmjut/,gpt-4o
+comp,kˈɑːmp,/kɑmp/,gpt-4o
+compartment,kəmpˈɑːɹtmənt,/kəmˈpɑɹtmənt/,gpt-4o
+complaints,kəmplˈeɪnts,/kəmˈpleɪnts/,gpt-4o
+completely,kəmplˈiːtli,/kəmˈplitli/,gpt-4o
+compute,kəmpjˈuːt,/kəmˈpjut/,gpt-4o
+computing,kəmpjˈuːtɪŋ,/kəmˈpjutɪŋ/,gpt-4o
+con,kˈɑːn,The General American English phonemic transcription for 'con' is /kɑn/.,gpt-4o
+conclude,kənklˈuːd,/kənˈklud/,gpt-4o
+concluded,kənklˈuːdəd,/kənˈkludɪd/,gpt-4o
+concludes,kənklˈuːdz,/kənˈkludz/,gpt-4o
+condominium,kˌɑndəmˈɪniəm,/kɑndəˈmɪniəm/,gpt-4o
+confession,kənfˈɛʃən,/kənˈfɛʃən/,gpt-4o
+confetti,kənfˈɛti,/kənˈfɛti/,gpt-4o
+configure,kənfˈɪgjɚ,/kənˈfɪɡjɚ/,gpt-4o
+connections,kənˈɛkʃənz,/kəˈnɛkʃənz/,gpt-4o
+consent,kənsˈɛnt,/kənˈsɛnt/,gpt-4o
+consider,kənsˈɪdɚ,/kənˈsɪdɚ/,gpt-4o
+consideration,kənsˌɪdɚˈeɪʃən,/kənˌsɪdəˈɹeɪʃən/,gpt-4o
+consideration,kənsˌɪdɚˈeɪʃən,/kənˌsɪdəˈɹeɪʃən/,gpt-4o
+considered,kənsˈɪdɚd,/kənˈsɪdɚd/,gpt-4o
+considering,kənsˈɪdɚɪŋ,/kənˈsɪdəɹɪŋ/,gpt-4o
+considers,kənsˈɪdɚz,/kənˈsɪdɚz/,gpt-4o
+constitute,kˈɑːnstətˌut,The General American English phonemic transcription for 'constitute' is /ˈkɑnstɪˌtut/.,gpt-4o
+constitutes,kˈɑːnstətˌuts,The General American English phonemic transcription for 'constitutes' is /ˈkɑnstɪˌtuts/.,gpt-4o
+consumption,kənsˈʌmpʃən,/kənˈsʌmpʃən/,gpt-4o
+contingent,kəntˈɪndʒənt,The General American English phonemic transcription for 'contingent' is /kənˈtɪndʒənt/.,gpt-4o
+continuously,kəntˈɪnjuəsli,/kənˈtɪnjuəsli/,gpt-4o
+continuum,kəntˈɪnjuəm,/kənˈtɪnjuəm/,gpt-4o
+controller,kəntɹˈoʊlɚ,/kənˈtɹoʊlɚ/,gpt-4o
+converted,kənvˈɚtɪd,/kənˈvɝtɪd/,gpt-4o
+convince,kənvˈɪns,/kənˈvɪns/,gpt-4o
+convinced,kənvˈɪnst,/kənˈvɪnst/,gpt-4o
+convincing,kənvˈɪnsɪŋ,/kənˈvɪnsɪŋ/,gpt-4o
+cookbook,kˈʊkbˌʊk,/kʊkˌbʊk/,gpt-4o
+cooker,kˈʊkɚ,The General American English phonemic transcription for 'cooker' is /ˈkʊkɚ/.,gpt-4o
+cookies,kˈʊkiz,The General American English phonemic transcription for 'cookies' is /ˈkʊkiz/.,gpt-4o
+cor,kˈɔːɹ,The word 'cor' in General American English is transcribed as /kɔɹ/.,gpt-4o
+corrections,kɚˈɛkʃənz,/kəˈɹɛkʃənz/,gpt-4o
+correspondent,kˌɔɹəspˈɑːndənt,/kɔɹəˈspɑndənt/,gpt-4o
+corruption,kɚˈʌpʃən,/kəˈɹʌpʃən/,gpt-4o
+cosy,kˈoʊzi,The General American English phonemic transcription for 'cosy' is /ˈkoʊzi/.,gpt-4o
+cougar,kˈuːgɚ,The General American English phonemic transcription for 'cougar' is /ˈkuɡɚ/.,gpt-4o
+counter,kˈaʊntɚ,The General American English phonemic transcription for 'counter' is /ˈkaʊntɚ/.,gpt-4o
+countries,kˈʌntɹiz,The General American English phonemic transcription for 'countries' is /ˈkʌntɹiz/.,gpt-4o
+courses,kˈɔːɹsəz,The General American English phonemic transcription for 'courses' is /ˈkɔɹsɪz/.,gpt-4o
+courteous,kˈɚtiəs,/kɝːtiəs/,gpt-4o
+cpu,kˈuː,The General American English phonemic transcription for 'CPU' is /ˌsiːpiˈjuː/.,gpt-4o
+cradle,kɹˈeɪdəl,/ˈkɹeɪdəl/,gpt-4o
+crash,kɹˈæʃ,The General American English phonemic transcription for 'crash' is /kɹæʃ/.,gpt-4o
+crashed,kɹˈæʃt,The General American English phonemic transcription for 'crashed' is /kɹæʃt/.,gpt-4o
+crashes,kɹˈæʃɪz,The General American English phonemic transcription for 'crashes' is /ˈkɹæʃɪz/.,gpt-4o
+crashing,kɹˈæʃɪŋ,The General American English phonemic transcription for 'crashing' is /ˈkɹæʃɪŋ/.,gpt-4o
+crazy,kɹˈeɪzi,The General American English phonemic transcription for 'crazy' is /ˈkɹeɪzi/.,gpt-4o
+creamy,kɹˈiːmi,/ˈkɹimi/,gpt-4o
+creed,kɹˈiːd,/kɹid/,gpt-4o
+creep,kɹˈiːp,/kɹip/,gpt-4o
+crest,kɹˈɛst,/kɹɛst/,gpt-4o
+crib,kɹˈɪb,/kɹɪb/,gpt-4o
+cricket,kɹˈɪkət,/ˈkɹɪkɪt/,gpt-4o
+criminal,kɹˈɪmənəl,/ˈkɹɪmɪnəl/,gpt-4o
+croatian,kɹoʊˈeɪʃən,/kɹoʊˈeɪʃən/,gpt-4o
+crochet,kɹoʊʃˈeɪ,/kɹoʊˈʃeɪ/,gpt-4o
+crush,kɹˈʌʃ,The General American English phonemic transcription for 'crush' is /kɹʌʃ/.,gpt-4o
+crushed,kɹˈʌʃt,The General American English phonemic transcription for 'crushed' is /kɹʌʃt/.,gpt-4o
+crushing,kɹˈʌʃɪŋ,/ˈkɹʌʃɪŋ/,gpt-4o
+cubic,kjˈuːbɪk,The General American English phonemic transcription for 'cubic' is /ˈkjubɪk/.,gpt-4o
+cuisine,kwɪzˈiːn,The General American English phonemic transcription for 'cuisine' is /kwɪˈzin/.,gpt-4o
+cumming,kˈʌmɪŋ,/kʌmɪŋ/,gpt-4o
+custody,kˈʌstədi,/ˈkʌstədi/,gpt-4o
+customer,kˈʌstəmɚ,/ˈkʌstəmɚ/,gpt-4o
+customers,kˈʌstəmɚz,/ˈkʌstəmɚz/,gpt-4o
+cutter,kˈʌtɚ,The General American English phonemic transcription for 'cutter' is /ˈkʌɾɚ/.,gpt-4o
+cylinder,sˈɪləndɚ,The General American English phonemic transcription for 'cylinder' is /ˈsɪlɪndɚ/.,gpt-4o
+dame,dˈeɪm,/dem/,gpt-4o
+dare,dˈɛɹ,/dɛɹ/,gpt-4o
+death,dˈɛθ,The General American English phonemic transcription for 'death' is /dɛθ/.,gpt-4o
+debit,dˈɛbɪt,The General American English phonemic transcription for 'debit' is /ˈdɛbɪt/.,gpt-4o
+debut,deɪbjˈuː,The General American English phonemic transcription for 'debut' is /deɪˈbju/.,gpt-4o
+debuts,dˈeɪbjuz,The General American English phonemic transcription for 'debuts' is /deɪˈbjuːz/.,gpt-4o
+decay,dəkˈeɪ,/dɪˈkeɪ/,gpt-4o
+decide,dɪsˈaɪd,/dɪˈsaɪd/,gpt-4o
+deciding,dəsˈaɪdɪŋ,/dɪˈsaɪdɪŋ/,gpt-4o
+delaware,dˈɛləwˌɛɹ,/dɛləˌwɛɹ/,gpt-4o
+deli,dˈɛli,/dɛli/,gpt-4o
+deliver,dɪlˈɪvɚ,/dɪˈlɪvɚ/,gpt-4o
+delivered,dɪlˈɪvɚd,/dɪˈlɪvɚd/,gpt-4o
+delta,dˈɛltə,/dɛltə/,gpt-4o
+demo,dˈɛmoʊ,/dɛmoʊ/,gpt-4o
+democratic,dˌɛməkɹˈætɪk,/dɛməˈkɹætɪk/,gpt-4o
+demos,dˈɛmˌoʊz,/dɛmoʊz/,gpt-4o
+denver,dˈɛnvɚ,/ˈdɛnvɚ/,gpt-4o
+depression,dɪpɹˈɛʃən,/dɪˈpɹɛʃən/,gpt-4o
+derry,dˈɛɹi,/ˈdɛɹi/,gpt-4o
+design,dɪzˈaɪn,/dɪˈzaɪn/,gpt-4o
+designed,dɪzˈaɪnd,/dɪˈzaɪnd/,gpt-4o
+designs,dɪzˈaɪnz,/dɪˈzaɪnz/,gpt-4o
+dessert,dɪzˈɚt,/dɪˈzɝt/,gpt-4o
+determine,dətˈɚmən,/dɪˈtɝmɪn/,gpt-4o
+determined,dɪtˈɚmənd,/dɪˈtɝmɪnd/,gpt-4o
+devotional,dɪvˈoʊʃənəl,/dɪˈvoʊʃənl̩/,gpt-4o
+differentiate,dˌɪfɚˈɛnʃiˌeɪt,/dɪfəˈɹɛnʃiˌeɪt/,gpt-4o
+dirty,dˈɚti,The General American English phonemic transcription for 'dirty' is /ˈdɝti/.,gpt-4o
+disc,dˈɪsk,The General American English phonemic transcription for 'disc' is /dɪsk/.,gpt-4o
+disciplinary,dˈɪsəplənˌɛɹi,/ˈdɪsəpləˌnɛɹi/,gpt-4o
+discoveries,dɪskˈʌvɚiz,The General American English phonemic transcription for 'discoveries' is /dɪsˈkʌvɹiz/.,gpt-4o
+discreet,dɪskɹˈiːt,/dɪˈskɹit/,gpt-4o
+discussion,dɪskˈʌʃən,/dɪˈskʌʃən/,gpt-4o
+disney,dˈɪzni,/ˈdɪzni/,gpt-4o
+disneyland,dˈɪznilˌænd,/ˈdɪzniˌlænd/,gpt-4o
+dispose,dɪspˈoʊz,/dɪsˈpoʊz/,gpt-4o
+disruption,dɪsɹˈʌpʃən,/dɪsˈɹʌpʃən/,gpt-4o
+distinctive,dɪstˈɪŋktɪv,/dɪˈstɪŋktɪv/,gpt-4o
+distinguish,dɪstˈɪŋgwɪʃ,/dɪˈstɪŋɡwɪʃ/,gpt-4o
+distinguished,dɪstˈɪŋgwɪʃt,/dɪˈstɪŋɡwɪʃt/,gpt-4o
+dna,dˈiːˌɛnˈeɪ,/dˌiːˌɛnˈeɪ/,gpt-4o
+doubt,dˈaʊt,/dɑʊt/,gpt-4o
+doubts,dˈaʊts,/dauts/,gpt-4o
+dough,dˈoʊ,/doʊ/,gpt-4o
+dozen,dˈʌzən,/ˈdʌzən/,gpt-4o
+dramatic,dɹəmˈætɪk,/drəˈmætɪk/,gpt-4o
+dug,dˈʌg,/dʌɡ/,gpt-4o
+duke,dˈuːk,/djuk/,gpt-4o
+dummies,dˈʌmiz,/dʌmiz/,gpt-4o
+dummy,dˈʌmi,/dʌmi/,gpt-4o
+dunk,dˈʌŋk,/dʌŋk/,gpt-4o
+duplication,djˌupləkˈeɪʃən,/ˌdupləˈkeɪʃən/,gpt-4o
+dust,dˈʌst,/dʌst/,gpt-4o
+dwarf,dwˈɔːɹf,/dwɔɹf/,gpt-4o
+dynasty,dˈaɪnəsti,/ˈdaɪnəsti/,gpt-4o
+earn,ˈɚn,/ɝn/,gpt-4o
+earned,ˈɚnd,/ɝnd/,gpt-4o
+earns,ˈɚnz,The General American English phonemic transcription for 'earns' is /ɝnz/.,gpt-4o
+easton,ˈiːstən,/ˈistən/,gpt-4o
+ecological,ikəlˈɑːdʒɪkəl,/ˌikəˈlɑdʒɪkəl/,gpt-4o
+ecuador,ˈɛkwədˌɔɹ,/ˈɛkwədɔɹ/,gpt-4o
+edgar,ˈɛdgɚ,/ˈɛdɡɚ/,gpt-4o
+eileen,aɪlˈiːn,/aɪˈlin/,gpt-4o
+elder,ˈɛldɚ,/ˈɛldɚ/,gpt-4o
+elderly,ˈɛldɚli,/ˈɛldɚli/,gpt-4o
+elders,ˈɛldɚz,/ˈɛldɚz/,gpt-4o
+election,ɪlˈɛkʃən,/ɪˈlɛkʃən/,gpt-4o
+electrical,ɪlˈɛktɹɪkəl,/ɪˈlɛktɹɪkəl/,gpt-4o
+elm,ˈɛlm,/ɛlm/,gpt-4o
+elusive,ɪlˈuːsɪv,/ɪˈlusɪv/,gpt-4o
+emerald,ˈɛmɹəld,/ˈɛmɹəld/,gpt-4o
+engagement,ɛngˈeɪdʒmənt,/ɪnˈɡeɪdʒmənt/,gpt-4o
+enhance,ɛnhˈæns,/ɪnˈhæns/,gpt-4o
+enthusiastic,ɪnθˌuziˈæstɪk,/ɪnˌθuziˈæstɪk/,gpt-4o
+enzyme,ˈɛnzˌaɪm,/ˈɛnzaɪm/,gpt-4o
+equally,ˈiːkwəli,/ˈikwəli/,gpt-4o
+equip,ɪkwˈɪp,/ɪˈkwɪp/,gpt-4o
+equipped,ɪkwˈɪpt,/ɪˈkwɪpt/,gpt-4o
+erin,ˈɛɹɪn,The General American English phonemic transcription for 'erin' is /ˈɛɹɪn/.,gpt-4o
+erosion,ɪɹˈoʊʒən,/ɪˈɹoʊʒən/,gpt-4o
+essentially,ɪsˈɛnʃəli,/ɪˈsɛnʃəli/,gpt-4o
+estate,ɪstˈeɪt,/ɪˈsteɪt/,gpt-4o
+estimation,ˌɛstəmˈeɪʃən,/ˌɛstəˈmeɪʃən/,gpt-4o
+estonia,ɛstˈoʊniə,/ɛˈstoʊniə/,gpt-4o
+europa,jʊɹˈoʊpə,The General American English phonemic transcription for 'europa' is /jʊˈɹoʊpə/.,gpt-4o
+examined,ɪgzˈæmənd,/ɪɡˈzæmɪnd/,gpt-4o
+examining,ɪgzˈæmɪnɪŋ,/ɪɡˈzæmɪnɪŋ/,gpt-4o
+exceed,ɪksˈiːd,/ɪkˈsid/,gpt-4o
+exceeding,ɪksˈiːdɪŋ,The General American English phonemic transcription for 'exceeding' is /ɪkˈsidɪŋ/.,gpt-4o
+excel,ɪksˈɛl,/ɪkˈsɛl/,gpt-4o
+exceptions,ɪksˈɛpʃənz,/ɪkˈsɛpʃənz/,gpt-4o
+excited,ɪksˈaɪtəd,/ɪkˈsaɪtɪd/,gpt-4o
+exciting,ɪksˈaɪtɪŋ,/ɪkˈsaɪtɪŋ/,gpt-4o
+expansive,ɪkspˈænsɪv,/ɪkˈspænsɪv/,gpt-4o
+expectation,ˌɛkspɛktˈeɪʃən,/ˌɛkspɛkˈteɪʃən/,gpt-4o
+experiential,ɛkspˌɛɹiˈɛnʃəl,/ɪkˌspɪɹiˈɛnʃəl/,gpt-4o
+explained,ɪksplˈeɪnd,/ɪkˈsplɛɪnd/,gpt-4o
+exploration,ˌɛksplɚˈeɪʃən,/ˌɛkspləˈɹeɪʃən/,gpt-4o
+expressive,ɪkspɹˈɛsɪv,/ɪkˈspɹɛsɪv/,gpt-4o
+extras,ˈɛkstɹəz,/ˈɛkstrəz/,gpt-4o
+eyebrows,ˈaɪbɹˌaʊz,The General American English phonemic transcription for 'eyebrows' is /ˈaɪˌbɹaʊz/.,gpt-4o
+fa,fˈɑː,/fa/,gpt-4o
+facial,fˈeɪʃəl,The General American English phonemic transcription for 'facial' is /ˈfeɪʃəl/.,gpt-4o
+fandom,fˈændəm,/fændəm/,gpt-4o
+father,fˈɑːðɚ,The General American English phonemic transcription for 'father' is /ˈfɑðɚ/.,gpt-4o
+fathers,fˈɑːðɚz,The General American English phonemic transcription for 'fathers' is /ˈfɑðɚz/.,gpt-4o
+fed,fˈɛd,/fɛd/,gpt-4o
+feeding,fˈiːdɪŋ,/ˈfidɪŋ/,gpt-4o
+fictional,fˈɪkʃənəl,The General American English phonemic transcription for 'fictional' is /ˈfɪkʃənl̩/.,gpt-4o
+fifty,fˈɪfti,The General American English phonemic transcription for 'fifty' is /ˈfɪfti/.,gpt-4o
+filler,fˈɪlɚ,/fɪlɚ/,gpt-4o
+fin,fˈɪn,The General American English phonemic transcription for 'fin' is /fɪn/.,gpt-4o
+final,fˈaɪnəl,The General American English phonemic transcription for 'final' is /ˈfaɪnəl/.,gpt-4o
+firm,fˈɚm,/fɝm/,gpt-4o
+firstly,fˈɚstli,/fɝstli/,gpt-4o
+fitness,fˈɪtnəs,/ˈfɪtnəs/,gpt-4o
+flawless,flˈɔːləs,/flɔləs/,gpt-4o
+flint,flˈɪnt,/flɪnt/,gpt-4o
+foolish,fˈuːlɪʃ,The General American English phonemic transcription for 'foolish' is /ˈfuːlɪʃ/.,gpt-4o
+formation,fɔɹmˈeɪʃən,/fɔɹˈmeɪʃən/,gpt-4o
+fraction,fɹˈækʃən,The General American English phonemic transcription for 'fraction' is /ˈfɹækʃən/.,gpt-4o
+frances,fɹˈænsɪs,The General American English phonemic transcription for 'frances' is /ˈfɹænsɪz/.,gpt-4o
+frederick,fɹˈɛdɹɪk,/ˈfɹɛdɹɪk/,gpt-4o
+freshman,fɹˈɛʃmən,The General American English phonemic transcription for 'freshman' is /ˈfɹɛʃmən/.,gpt-4o
+frost,fɹˈɔːst,/fɹɔst/,gpt-4o
+frustration,fɹəstɹˈeɪʃən,The General American English phonemic transcription for 'frustration' is /fɹəˈstɹeɪʃən/.,gpt-4o
+fullest,fˈʊləst,/ˈfʊləst/,gpt-4o
+furnished,fˈɚnɪʃt,/fɜɹnɪʃt/,gpt-4o
+fuse,fjˈuːz,/fjuz/,gpt-4o
+fuses,fjˈuːzəz,The General American English phonemic transcription for 'fuses' is /ˈfjuzɪz/.,gpt-4o
+fyi,fˈaɪ,/fˌɛfwaɪˈaɪ/,gpt-4o
+gaga,gˈeɪgə,The General American English phonemic transcription for 'gaga' is /ˈɡɑɡɑ/.,gpt-4o
+galore,gəlˈɔːɹ,/ɡəˈlɔɹ/,gpt-4o
+game,gˈeɪm,The General American English phonemic transcription for 'game' is /ɡeɪm/.,gpt-4o
+games,gˈeɪmz,The General American English phonemic transcription for 'games' is /ɡeɪmz/.,gpt-4o
+gaming,gˈeɪmɪŋ,/ˈɡeɪmɪŋ/,gpt-4o
+gaping,gˈeɪpɪŋ,The General American English phonemic transcription for 'gaping' is /ˈɡeɪpɪŋ/.,gpt-4o
+genre,ʒˈɑːnɹə,/ˈʒɑnɹə/,gpt-4o
+ghetto,gˈɛtoʊ,/ˈɡɛtoʊ/,gpt-4o
+gift,gˈɪft,/gɪft/,gpt-4o
+gifted,gˈɪftəd,/gɪftɪd/,gpt-4o
+gifting,gˈɪftɪŋ,The General American English phonemic transcription for 'gifting' is /ˈɡɪftɪŋ/.,gpt-4o
+gifts,gˈɪfts,/gɪfts/,gpt-4o
+gingerbread,dʒˈɪndʒɚbɹˌɛd,/ˈdʒɪndʒɚˌbɹɛd/,gpt-4o
+girls,gˈɚlz,The General American English phonemic transcription for 'girls' is /ɡɝlz/.,gpt-4o
+glaze,glˈeɪz,/glɛɪz/,gpt-4o
+glazed,glˈeɪzd,The General American English phonemic transcription for 'glazed' is /ɡleɪzd/.,gpt-4o
+glazing,glˈeɪzɪŋ,The General American English phonemic transcription for 'glazing' is /ˈɡleɪzɪŋ/.,gpt-4o
+glimpse,glˈɪmps,/glɪmps/,gpt-4o
+global,glˈoʊbəl,The General American English phonemic transcription for 'global' is /ˈɡloʊbəl/.,gpt-4o
+glory,glˈɔːɹi,/glɔɹi/,gpt-4o
+gotta,gˈɑːtə,/ˈɡɑɾə/,gpt-4o
+gov,gˈʌv,/gʌv/,gpt-4o
+governments,gˈʌvɚmənts,/ˈɡʌvɚnmənts/,gpt-4o
+grace,gɹˈeɪs,/greɪs/,gpt-4o
+greatest,gɹˈeɪtəst,/ˈɡɹeɪtəst/,gpt-4o
+greatly,gɹˈeɪtli,/ˈɡɹeɪtli/,gpt-4o
+group,gɹˈuːp,The General American English phonemic transcription for 'group' is /ɡɹup/.,gpt-4o
+grouped,gɹˈuːpt,The General American English phonemic transcription for 'grouped' is /ɡɹupt/.,gpt-4o
+grouping,gɹˈuːpɪŋ,The General American English phonemic transcription for 'grouping' is /ˈɡɹupɪŋ/.,gpt-4o
+groups,gɹˈuːps,The General American English phonemic transcription for 'groups' is /ɡɹups/.,gpt-4o
+guide,gˈaɪd,/ɡaɪd/,gpt-4o
+guided,gˈaɪdəd,/ˈɡaɪdɪd/,gpt-4o
+guides,gˈaɪdz,/ɡaɪdz/,gpt-4o
+guiding,gˈaɪdɪŋ,/ˈɡaɪdɪŋ/,gpt-4o
+guilt,gˈɪlt,/gɪlt/,gpt-4o
+gym,dʒˈɪm,The General American English phonemic transcription for 'gym' is /dʒɪm/.,gpt-4o
+gyms,dʒˈɪmz,The General American English phonemic transcription for 'gyms' is /dʒɪmz/.,gpt-4o
+halfway,hˈæfwˈeɪ,The General American English phonemic transcription for 'halfway' is /ˌhæfˈweɪ/.,gpt-4o
+ham,hˈæm,The General American English phonemic transcription for 'ham' is /hæm/.,gpt-4o
+hand,hˈænd,The General American English phonemic transcription for 'hand' is /hænd/.,gpt-4o
+handed,hˈændəd,/ˈhændəd/,gpt-4o
+handing,hˈændɪŋ,The General American English phonemic transcription for 'handing' is /ˈhændɪŋ/.,gpt-4o
+handler,hˈændlɚ,/ˈhændlɚ/,gpt-4o
+hands,hˈændz,/hændz/,gpt-4o
+hannah,hˈænə,/ˈhænə/,gpt-4o
+hanover,hˈænoʊvɚ,/ˈhænoʊvɚ/,gpt-4o
+happen,hˈæpən,The General American English phonemic transcription for 'happen' is /ˈhæpən/.,gpt-4o
+happened,hˈæpənd,/hæpənd/,gpt-4o
+happens,hˈæpənz,/hæpənz/,gpt-4o
+hard,hˈɑːɹd,/hɑɹd/,gpt-4o
+hardly,hˈɑːɹdli,/hɑɹdli/,gpt-4o
+harmful,hˈɑːɹmfəl,/hɑɹmfəl/,gpt-4o
+hatch,hˈætʃ,The General American English phonemic transcription for 'hatch' is /hætʃ/.,gpt-4o
+havana,həvˈænə,/həˈvænə/,gpt-4o
+head,hˈɛd,The General American English phonemic transcription for 'head' is /hɛd/.,gpt-4o
+headed,hˈɛdəd,The General American English phonemic transcription for 'headed' is /ˈhɛdɪd/.,gpt-4o
+heading,hˈɛdɪŋ,The General American English phonemic transcription for 'heading' is /ˈhɛdɪŋ/.,gpt-4o
+heads,hˈɛdz,/hɛdz/,gpt-4o
+heartbeat,hˈɑːɹtbˌit,/ˈhɑɹtˌbit/,gpt-4o
+helm,hˈɛlm,/hɛlm/,gpt-4o
+helper,hˈɛlpɚ,/ˈhɛlpɚ/,gpt-4o
+helpful,hˈɛlpfəl,/ˈhɛlpfəl/,gpt-4o
+hemp,hˈɛmp,The General American English phonemic transcription for 'hemp' is /hɛmp/.,gpt-4o
+henry,hˈɛnɹi,/ˈhɛnɹi/,gpt-4o
+heroic,hɪɹˈoʊɪk,/hɪˈɹoʊɪk/,gpt-4o
+hesitation,hˌɛzətˈeɪʃən,/ˌhɛzɪˈteɪʃən/,gpt-4o
+het,hˈɛt,The General American English phonemic transcription for 'het' is /hɛt/.,gpt-4o
+highly,hˈaɪli,/ˈhaɪli/,gpt-4o
+hill,hˈɪl,/hɪl/,gpt-4o
+hills,hˈɪlz,The General American English phonemic transcription for 'hills' is /hɪlz/.,gpt-4o
+hilton,hˈɪltən,/hɪltən/,gpt-4o
+hint,hˈɪnt,/hɪnt/,gpt-4o
+hints,hˈɪnts,/hɪnts/,gpt-4o
+historians,hɪstˈɔːɹiənz,/hɪˈstɔɹiənz/,gpt-4o
+hiv,hˈɪv,The General American English phonemic transcription for 'hiv' is /hɪv/.,gpt-4o
+hoa,hˈoʊə,"The word 'hoa' does not have a standard pronunciation in General American English, as it is not a commonly recognized English word. If you meant a different word or need a transcription for a specific context, please provide more details.",gpt-4o
+holly,hˈɑːli,The General American English phonemic transcription for 'holly' is /ˈhɑli/.,gpt-4o
+homes,hˈoʊmz,/homz/,gpt-4o
+hood,hˈʊd,/hʊd/,gpt-4o
+hooded,hˈʊdɪd,/ˈhʊdɪd/,gpt-4o
+hoods,hˈʊdz,/hʊdz/,gpt-4o
+hooker,hˈʊkɚ,/ˈhʊkɚ/,gpt-4o
+hopeful,hˈoʊpfəl,The General American English phonemic transcription for 'hopeful' is /ˈhoʊpfəl/.,gpt-4o
+hormone,hˈɔːɹmˌoʊn,/hɔɹmoʊn/,gpt-4o
+hose,hˈoʊz,The General American English phonemic transcription for 'hose' is /hoʊz/.,gpt-4o
+hoses,hˈoʊzɪz,The General American English phonemic transcription for 'hoses' is /ˈhoʊzɪz/.,gpt-4o
+hospitality,hˌɑspətˈæləti,/hɑˌspɪˈtæləti/,gpt-4o
+hourly,ˈaʊɹli,The General American English phonemic transcription for 'hourly' is /ˈaʊɹli/.,gpt-4o
+housed,hˈaʊzd,/hɑʊzd/,gpt-4o
+housing,hˈaʊzɪŋ,The General American English phonemic transcription for 'housing' is /ˈhaʊzɪŋ/.,gpt-4o
+hover,hˈʌvɚ,The General American English phonemic transcription for 'hover' is /ˈhʌvɚ/.,gpt-4o
+hunt,hˈʌnt,/hʌnt/,gpt-4o
+hunting,hˈʌntɪŋ,/hʌntɪŋ/,gpt-4o
+husband,hˈʌzbənd,/ˈhʌzbənd/,gpt-4o
+husbands,hˈʌzbəndz,/hʌzbəndz/,gpt-4o
+hutchinson,hˈʌtʃɪnsən,/hʌtʃɪnsən/,gpt-4o
+iceberg,ˈaɪsbɚg,/ˈaɪsbɝɡ/,gpt-4o
+idaho,ˈaɪdəhˌoʊ,/ˈaɪdəˌhoʊ/,gpt-4o
+idle,ˈaɪdəl,The General American English phonemic transcription for 'idle' is /ˈaɪdəl/.,gpt-4o
+immunity,ɪmjˈuːnəti,/ɪˈmjunɪti/,gpt-4o
+impeachment,ɪmpˈiːtʃmənt,/ɪmˈpitʃmənt/,gpt-4o
+impeccable,ɪmpˈɛkəbəl,/ɪmˈpɛkəbl̩/,gpt-4o
+import,ˈɪmpˌɔɹt,/ˈɪmpɔɹt/,gpt-4o
+importance,ɪmpˈɔːɹtəns,/ɪmˈpɔɹtəns/,gpt-4o
+imported,ɪmpˈɔːɹtɪd,/ɪmˈpɔɹtɪd/,gpt-4o
+impressed,ɪmpɹˈɛst,/ɪmˈpɹɛst/,gpt-4o
+incidents,ˈɪnsədənts,/ˈɪnsɪdənts/,gpt-4o
+include,ɪnklˈuːd,/ɪnˈklud/,gpt-4o
+included,ɪnklˈuːdəd,/ɪnˈkludɪd/,gpt-4o
+includes,ɪnklˈuːdz,/ɪnˈkludz/,gpt-4o
+inclusive,ɪnklˈuːsɪv,/ɪnˈklusɪv/,gpt-4o
+indies,ˈɪndiz,The General American English phonemic transcription for 'indies' is /ˈɪndiz/.,gpt-4o
+induction,ɪndˈʌkʃən,/ɪnˈdʌkʃən/,gpt-4o
+infection,ɪnfˈɛkʃən,/ɪnˈfɛkʃən/,gpt-4o
+inflammation,ˌɪnfləmˈeɪʃən,/ˌɪnfləˈmeɪʃən/,gpt-4o
+inhabitants,ɪnhˈæbətənts,/ɪnˈhæbɪtənts/,gpt-4o
+inquire,ɪnkwˈaɪɹ,/ɪnˈkwaɪɹ/,gpt-4o
+ins,ˈɪnz,/ɪnz/,gpt-4o
+instructed,ɪnstɹˈʌktəd,/ɪnˈstɹʌktɪd/,gpt-4o
+intelligent,ɪntˈɛlədʒənt,/ɪnˈtɛlədʒənt/,gpt-4o
+intention,ɪntˈɛntʃən,/ɪnˈtɛnʃən/,gpt-4o
+interior,ɪntˈɪɹiɚ,/ɪnˈtɪɹiɚ/,gpt-4o
+invest,ɪnvˈɛst,/ɪnˈvɛst/,gpt-4o
+invested,ɪnvˈɛstəd,/inˈvɛstɪd/,gpt-4o
+invite,ˈɪnvaɪt,/ɪnˈvaɪt/,gpt-4o
+invited,ɪnvˈaɪtəd,/inˈvaɪtɪd/,gpt-4o
+inviting,ɪnvˈaɪtɪŋ,/ɪnˈvaɪtɪŋ/,gpt-4o
+ireland,ˈaɪɚlənd,/ˈaɪɹlənd/,gpt-4o
+irs,ˈɚz,/aɪˈɛɹɛs/,gpt-4o
+irwin,ˈɚwən,/ˈɪɹwɪn/,gpt-4o
+issue,ˈɪʃu,/ˈɪʃu/,gpt-4o
+jade,dʒˈeɪd,/jɛɪd/,gpt-4o
+jay,dʒˈeɪ,/dʒeɪ/,gpt-4o
+jefferson,dʒˈɛfɚsən,/ˈdʒɛfɚsən/,gpt-4o
+jimmy,dʒˈɪmi,The General American English phonemic transcription for 'jimmy' is /ˈdʒɪmi/.,gpt-4o
+joel,dʒˈoʊəl,The General American English phonemic transcription for 'Joel' is /ˈdʒoʊəl/.,gpt-4o
+joey,dʒˈoʊi,/ˈdʒoʊi/,gpt-4o
+journey,dʒˈɚni,The General American English phonemic transcription for 'journey' is /ˈdʒɝni/.,gpt-4o
+joy,dʒˈɔɪ,/dʒɔɪ/,gpt-4o
+joys,dʒˈɔɪz,/dʒɔɪz/,gpt-4o
+judy,dʒˈuːdi,The General American English phonemic transcription for 'judy' is /ˈdʒudi/.,gpt-4o
+jumbo,dʒˈʌmboʊ,/ˈdʒʌmboʊ/,gpt-4o
+kelly,kˈɛli,/ˈkɛli/,gpt-4o
+kenny,kˈɛni,/ˈkɛni/,gpt-4o
+kerala,kˌɛɹˈɑːlə,/kəˈɹɑlə/,gpt-4o
+kernel,kˈɚnəl,/kɝnəl/,gpt-4o
+kick,kˈɪk,/kɪk/,gpt-4o
+kicked,kˈɪkt,/kɪkt/,gpt-4o
+kicking,kˈɪkɪŋ,/kɪkɪŋ/,gpt-4o
+kicks,kˈɪks,/kɪks/,gpt-4o
+kim,kˈɪm,/kɪm/,gpt-4o
+kin,kˈɪn,The General American English phonemic transcription for 'kin' is /kɪn/.,gpt-4o
+kirsten,kˈɚstən,/kɝstən/,gpt-4o
+knives,nˈaɪvz,The General American English phonemic transcription for 'knives' is /naɪvz/.,gpt-4o
+kramer,kɹˈeɪmɚ,The General American English phonemic transcription for 'kramer' is /ˈkɹeɪmɚ/.,gpt-4o
+lab,lˈæb,The General American English phonemic transcription for 'lab' is /læb/.,gpt-4o
+lanes,lˈeɪnz,The General American English phonemic transcription for 'lanes' is /leɪnz/.,gpt-4o
+later,lˈeɪtɚ,The General American English phonemic transcription for 'later' is /ˈleɪɾɚ/.,gpt-4o
+lavish,lˈævɪʃ,The General American English phonemic transcription for 'lavish' is /ˈlævɪʃ/.,gpt-4o
+lawn,lˈɔːn,The General American English phonemic transcription for 'lawn' is /lɔn/.,gpt-4o
+lax,lˈæks,The General American English phonemic transcription for 'lax' is /læks/.,gpt-4o
+learn,lˈɚn,The General American English phonemic transcription for 'learn' is /lɝn/.,gpt-4o
+learning,lˈɚnɪŋ,/lɝnɪŋ/,gpt-4o
+learnt,lˈɚnt,"In General American English, the word 'learnt' is transcribed as /lɝnt/.",gpt-4o
+lecturer,lˈɛktʃɚɚ,/ˈlɛktʃəɹɚ/,gpt-4o
+legally,lˈiːgəli,/ˈliɡəli/,gpt-4o
+lemonade,lˈɛmənˈeɪd,/lɛməˈneɪd/,gpt-4o
+lens,lˈɛnz,/lɛnz/,gpt-4o
+lenses,lˈɛnzəz,The General American English phonemic transcription for 'lenses' is /ˈlɛnzɪz/.,gpt-4o
+lester,lˈɛstɚ,The General American English phonemic transcription for 'lester' is /ˈlɛstɚ/.,gpt-4o
+liar,lˈaɪɚ,The General American English phonemic transcription for 'liar' is /ˈlaɪɚ/.,gpt-4o
+liberal,lˈɪbɚəl,/ˈlɪbɹəl/,gpt-4o
+liberty,lˈɪbɚti,The General American English phonemic transcription for 'liberty' is /ˈlɪbɚti/.,gpt-4o
+liner,lˈaɪnɚ,The General American English phonemic transcription for 'liner' is /ˈlaɪnɚ/.,gpt-4o
+literal,lˈɪtɚəl,/ˈlɪtəɹəl/,gpt-4o
+lithium,lˈɪθiəm,The General American English phonemic transcription for 'lithium' is /ˈlɪθiəm/.,gpt-4o
+locate,lˈoʊkˌeɪt,The General American English phonemic transcription for 'locate' is /ˈloʊkeɪt/.,gpt-4o
+located,lˈoʊkˌeɪtəd,The General American English phonemic transcription for 'located' is /ˈloʊˌkeɪtɪd/.,gpt-4o
+lodge,lˈɑːdʒ,/lɑdʒ/,gpt-4o
+lodging,lˈɑːdʒɪŋ,/lɑdʒɪŋ/,gpt-4o
+loneliness,lˈoʊnlinəs,/lonlinəs/,gpt-4o
+lonely,lˈoʊnli,/ˈloʊnli/,gpt-4o
+lucky,lˈʌki,The General American English phonemic transcription for 'lucky' is /ˈlʌki/.,gpt-4o
+lynch,lˈɪntʃ,The General American English phonemic transcription for 'lynch' is /lɪntʃ/.,gpt-4o
+lyric,lˈɪɹɪk,/ˈlɪɹɪk/,gpt-4o
+macedonia,mˌæsədˈoʊniə,/mæsəˈdoʊniə/,gpt-4o
+machinery,məʃˈiːnɚi,/məˈʃinɚi/,gpt-4o
+magazines,mˈægəzˌinz,/mæɡəˈzinz/,gpt-4o
+magnet,mˈægnət,The General American English phonemic transcription for 'magnet' is /ˈmæɡnət/.,gpt-4o
+management,mˈænədʒmənt,/ˈmænɪdʒmənt/,gpt-4o
+mandate,mˌændˈeɪt,/ˈmænˌdeɪt/,gpt-4o
+manicure,mˈænɪkjɚ,/ˈmænɪˌkjʊɹ/,gpt-4o
+maple,mˈeɪpəl,/ˈmeɪpəl/,gpt-4o
+mara,mˈɑːɹə,/mɑɹə/,gpt-4o
+marathi,məɹˈɑːti,/məˈɹɑti/,gpt-4o
+marital,mˈɛɹətəl,/mˈæɹɪtəl/,gpt-4o
+market,mˈɑːɹkət,/ˈmɑɹkɪt/,gpt-4o
+markets,mˈɑːɹkəts,/ˈmɑɹkɪts/,gpt-4o
+mascot,mˈæskət,The General American English phonemic transcription for 'mascot' is /ˈmæskɑt/.,gpt-4o
+massey,mˈæsi,The General American English phonemic transcription for 'massey' is /ˈmæsi/.,gpt-4o
+material,mətˈɪɹiəl,/məˈtɪɹiəl/,gpt-4o
+materials,mətˈɪɹiəlz,/məˈtɪɹiəlz/,gpt-4o
+maternity,mətˈɚnɪti,/məˈtɝnɪti/,gpt-4o
+matthew,mˈæθju,/mæθju/,gpt-4o
+maturity,mətʃˈʊɹəti,/məˈtʊɹəti/,gpt-4o
+maya,mˈaɪə,The General American English phonemic transcription for 'maya' is /ˈmaɪə/.,gpt-4o
+meaningful,mˈiːnɪŋfəl,/ˈminɪŋfəl/,gpt-4o
+mechanism,mˈɛkənˌɪzəm,/mɛkəˌnɪzəm/,gpt-4o
+memorable,mˈɛmɚəbəl,The General American English phonemic transcription for 'memorable' is /ˈmɛmɹəbl̩/.,gpt-4o
+mesh,mˈɛʃ,The General American English phonemic transcription for 'mesh' is /mɛʃ/.,gpt-4o
+messy,mˈɛsi,The General American English phonemic transcription for 'messy' is /ˈmɛsi/.,gpt-4o
+migrant,mˈaɪgɹənt,/ˈmaɪɡɹənt/,gpt-4o
+mike,mˈaɪk,/maɪk/,gpt-4o
+mile,mˈaɪl,/maɪl/,gpt-4o
+millions,mˈɪljənz,The General American English phonemic transcription for 'millions' is /ˈmɪljənz/.,gpt-4o
+mine,mˈaɪn,The General American English phonemic transcription for 'mine' is /maɪn/.,gpt-4o
+mines,mˈaɪnz,/maɪnz/,gpt-4o
+mining,mˈaɪnɪŋ,/ˈmaɪnɪŋ/,gpt-4o
+ministry,mˈɪnəstɹi,/ˈmɪnəstɹi/,gpt-4o
+minus,mˈaɪnəs,/ˈmaɪnəs/,gpt-4o
+misconduct,mˌɪskɑndˈʌkt,/mɪsˈkɑndʌkt/,gpt-4o
+miss,mˈɪs,/mɪs/,gpt-4o
+missed,mˈɪst,The General American English phonemic transcription for 'missed' is /mɪst/.,gpt-4o
+misses,mˈɪsəz,The General American English phonemic transcription for 'misses' is /ˈmɪsɪz/.,gpt-4o
+missing,mˈɪsɪŋ,The General American English phonemic transcription for 'missing' is /ˈmɪsɪŋ/.,gpt-4o
+moderator,mˈɑːdɚˌeɪtɚ,/mɑdəˌɹeɪtɚ/,gpt-4o
+modules,mˈɑːdʒulz,The General American English phonemic transcription for 'modules' is /ˈmɑdʒulz/.,gpt-4o
+moist,mˈɔɪst,/moɪst/,gpt-4o
+mongolian,mɑŋgˈoʊliən,/mɑnˈɡoʊliən/,gpt-4o
+monterey,mˌɑntɚˈeɪ,/mɑntəˈɹeɪ/,gpt-4o
+mood,mˈuːd,/mud/,gpt-4o
+moonlight,mˈuːnlˌaɪt,/mo͞onlaɪt/,gpt-4o
+mostly,mˈoʊstli,/ˈmoʊstli/,gpt-4o
+motivate,mˈoʊtəvˌeɪt,/ˈmoʊtəˌveɪt/,gpt-4o
+mountains,mˈaʊntənz,/mæʊntənz/,gpt-4o
+municipal,mjunˈɪsəpəl,/mjuˈnɪsəpəl/,gpt-4o
+music,mjˈuːzɪk,/mˈjuzɪk/,gpt-4o
+mythology,məθˈɑːlədʒi,/mɪˈθɑlədʒi/,gpt-4o
+myths,mˈɪθs,/mɪθs/,gpt-4o
+national,nˈæʃənəl,/næʃənəl/,gpt-4o
+naval,nˈeɪvəl,The General American English phonemic transcription for 'naval' is /ˈneɪvəl/.,gpt-4o
+neatly,nˈiːtli,/ˈnitli/,gpt-4o
+negotiable,nəgˈoʊʃəbəl,/nɪˈɡoʊʃiəbl̩/,gpt-4o
+nelson,nˈɛlsən,/ˈnɛlsən/,gpt-4o
+nerve,nˈɚv,/nɝv/,gpt-4o
+nerves,nˈɚvz,/nɝvz/,gpt-4o
+nevis,nˈɛvɪs,/ˈnivɪs/,gpt-4o
+newton,nˈuːtən,/njutn̩/,gpt-4o
+nile,nˈaɪl,The General American English phonemic transcription for 'nile' is /naɪl/.,gpt-4o
+ninth,nˈaɪnθ,The General American English phonemic transcription for 'ninth' is /naɪnθ/.,gpt-4o
+nominee,nˌɑmənˈiː,/nɑməˈni/,gpt-4o
+notice,nˈoʊtəs,The General American English phonemic transcription for 'notice' is /ˈnoʊtɪs/.,gpt-4o
+noticed,nˈoʊtəst,The General American English phonemic transcription for 'noticed' is /ˈnoʊtɪst/.,gpt-4o
+noticing,nˈoʊtɪsɪŋ,The General American English phonemic transcription for 'noticing' is /ˈnoʊtɪsɪŋ/.,gpt-4o
+nous,nˈuːs,The word 'nous' in General American English is transcribed as /nus/.,gpt-4o
+nudity,nˈuːdɪti,/nudɪti/,gpt-4o
+numerical,numˈɛɹəkəl,/njuˈmɛɹɪkəl/,gpt-4o
+oath,ˈoʊθ,The General American English phonemic transcription for 'oath' is /oʊθ/.,gpt-4o
+obama,ˌoʊbˈɑːmə,/oʊˈbɑmə/,gpt-4o
+obscene,ɑbsˈiːn,/əbˈsin/,gpt-4o
+obviously,ˈɑːbviəsli,/ˈɑbviəsli/,gpt-4o
+officially,əfˈɪʃəli,/əˈfɪʃəli/,gpt-4o
+oh,ˈoʊ,The General American English phonemic transcription for 'oh' is /oʊ/.,gpt-4o
+older,ˈoʊldɚ,/ˈoʊldɚ/,gpt-4o
+omg,ˈɑːm,"The word 'omg' is typically an abbreviation for ""oh my god"" and is not pronounced as a single word in General American English. However, if you are referring to the pronunciation of the abbreviation itself, it would be pronounced as the individual letters: /oʊ ɛm dʒi/.",gpt-4o
+opacity,oʊpˈæsəti,/oʊˈpæsɪti/,gpt-4o
+opinion,əpˈɪnjən,/əˈpɪnjən/,gpt-4o
+opinions,əpˈɪnjənz,The General American English phonemic transcription for 'opinions' is /əˈpɪnjənz/.,gpt-4o
+opt,ˈɑːpt,/ɑpt/,gpt-4o
+optical,ˈɑːptɪkəl,The General American English phonemic transcription for 'optical' is /ˈɑptɪkəl/.,gpt-4o
+organic,ɔɹgˈænɪk,/ɔɹˈɡænɪk/,gpt-4o
+organize,ˈɔːɹgənˌaɪz,/ˈɔɹɡənaɪz/,gpt-4o
+organized,ˈɔːɹgənˌaɪzd,/ˈɔɹɡənaɪzd/,gpt-4o
+osborne,ˈɔːzbˌɔɹn,/osbɔɹn/,gpt-4o
+oslo,ˈɑːzloʊ,/osloʊ/,gpt-4o
+ounces,ˈaʊnsəz,/ˈaʊnsɪz/,gpt-4o
+outer,ˈaʊtɚ,The General American English phonemic transcription for 'outer' is /ˈaʊtɚ/.,gpt-4o
+outlook,ˈaʊtlˌʊk,/ˈaʊtlʊk/,gpt-4o
+oval,ˈoʊvəl,/ˈoʊvəl/,gpt-4o
+over,ˈoʊvɚ,The General American English phonemic transcription for 'over' is /ˈoʊvɚ/.,gpt-4o
+override,ˈoʊvɚɹˌaɪd,/ˌoʊvɚˈɹaɪd/,gpt-4o
+owners,ˈoʊnɚz,The General American English phonemic transcription for 'owners' is /ˈoʊnɚz/.,gpt-4o
+package,pˈækədʒ,The General American English phonemic transcription for 'package' is /ˈpækɪdʒ/.,gpt-4o
+papa,pˈɑːpə,/pəˈpɑ/,gpt-4o
+parsley,pˈɑːɹsli,/ˈpɑɹsli/,gpt-4o
+partly,pˈɑːɹtli,/ˈpɑɹtli/,gpt-4o
+passive,pˈæsɪv,The General American English phonemic transcription for 'passive' is /ˈpæsɪv/.,gpt-4o
+past,pˈæst,/pæst/,gpt-4o
+patio,pˈætiˌoʊ,/pætiˌoʊ/,gpt-4o
+patrol,pətɹˈoʊl,/pəˈtɹoʊl/,gpt-4o
+pavilion,pəvˈɪljən,/pəˈvɪljən/,gpt-4o
+payments,pˈeɪmənts,/ˈpeɪmənts/,gpt-4o
+pedestal,pˈɛdəstəl,/pɛdəstəl/,gpt-4o
+pedestrian,pədˈɛstɹiən,/pəˈdɛstɹiən/,gpt-4o
+permit,pˈɚmˌɪt,/pɚˈmɪt/,gpt-4o
+permitted,pɚmˈɪtəd,/pɚˈmɪtɪd/,gpt-4o
+persistent,pɚsˈɪstənt,/pɚˈsɪstənt/,gpt-4o
+persona,pɚsˈoʊnə,/pɚˈsoʊnə/,gpt-4o
+personality,pˌɚsənˈælɪti,/pɝsəˈnæləti/,gpt-4o
+perspective,pɚspˈɛktɪv,/pɚˈspɛktɪv/,gpt-4o
+peru,pɚˈuː,/pəˈɹu/,gpt-4o
+pharmacy,fˈɑːɹməsi,/phɑɹməsi/,gpt-4o
+physician,fəzˈɪʃən,/fɪˈzɪʃən/,gpt-4o
+physiological,fˌɪziəlˈɑːdʒɪkəl,/ˌfɪziəˈlɑdʒɪkəl/,gpt-4o
+pick,pˈɪk,/pɪk/,gpt-4o
+picked,pˈɪkt,/pɪkt/,gpt-4o
+picking,pˈɪkɪŋ,The General American English phonemic transcription for 'picking' is /ˈpɪkɪŋ/.,gpt-4o
+picks,pˈɪks,/pɪks/,gpt-4o
+pictures,pˈɪktʃɚz,/pɪk.tʃɚz/,gpt-4o
+pier,pˈɪɹ,/pɪɹ/,gpt-4o
+pig,pˈɪg,/pɪɡ/,gpt-4o
+pigeon,pˈɪdʒən,/pɪdʒən/,gpt-4o
+pigs,pˈɪgz,/pɪɡz/,gpt-4o
+pike,pˈaɪk,/pɑɪk/,gpt-4o
+piston,pˈɪstən,The General American English phonemic transcription for 'piston' is /ˈpɪstən/.,gpt-4o
+pitch,pˈɪtʃ,/pɪtʃ/,gpt-4o
+pitched,pˈɪtʃt,/pɪtʃt/,gpt-4o
+pitching,pˈɪtʃɪŋ,The General American English phonemic transcription for 'pitching' is /ˈpɪtʃɪŋ/.,gpt-4o
+playful,plˈeɪfəl,The General American English phonemic transcription for 'playful' is /ˈpleɪfəl/.,gpt-4o
+pocket,pˈɑːkət,The General American English phonemic transcription for 'pocket' is /ˈpɑkɪt/.,gpt-4o
+pockets,pˈɑːkəts,The General American English phonemic transcription for 'pockets' is /ˈpɑkɪts/.,gpt-4o
+point,pˈɔɪnt,/pɔɪnt/,gpt-4o
+pointe,pˈɔɪnt,/pɔɪnt/,gpt-4o
+pointed,pˈɔɪntəd,The General American English phonemic transcription for 'pointed' is /ˈpɔɪntɪd/.,gpt-4o
+pointing,pˈɔɪntɪŋ,The General American English phonemic transcription for 'pointing' is /ˈpɔɪntɪŋ/.,gpt-4o
+points,pˈɔɪnts,/pɔɪnts/,gpt-4o
+politician,pˌɑlətˈɪʃən,/pɑləˈtɪʃən/,gpt-4o
+pop,pˈɑːp,/pɑp/,gpt-4o
+popping,pˈɑːpɪŋ,/pɑpɪŋ/,gpt-4o
+pops,pˈɑːps,/pɑps/,gpt-4o
+popularity,pˌɑpjəlˈɛɹəti,/pɑpjəˈlæɹəti/,gpt-4o
+portal,pˈɔːɹtəl,/ˈpɔɹtəl/,gpt-4o
+portugal,pˈɔːɹtʃəgəl,/ˈpɔɹtʃəɡəl/,gpt-4o
+possess,pəzˈɛs,/pəˈzɛs/,gpt-4o
+possessed,pəzˈɛst,/pəˈzɛst/,gpt-4o
+possesses,pəzˈɛsəz,/pəˈzɛsɪz/,gpt-4o
+postage,pˈoʊstədʒ,The General American English phonemic transcription for 'postage' is /ˈpoʊstɪdʒ/.,gpt-4o
+powell,pˈaʊəl,The General American English phonemic transcription for 'Powell' is /ˈpaʊəl/.,gpt-4o
+pray,pɹˈeɪ,/prɛɪ/,gpt-4o
+predict,pɹɪdˈɪkt,/pɹɪˈdɪkt/,gpt-4o
+predicted,pɹɪdˈɪktɪd,/pɹɪˈdɪktɪd/,gpt-4o
+prediction,pɹidˈɪkʃən,/pɹɪˈdɪkʃən/,gpt-4o
+preference,pɹˈɛfɚəns,/preˈfɹəns/,gpt-4o
+premium,pɹˈiːmiəm,/pɹiːmiəm/,gpt-4o
+preparation,pɹˌɛpɚˈeɪʃən,/prɛpəˈɹeɪʃən/,gpt-4o
+prima,pɹˈiːmə,/prima/,gpt-4o
+princeton,pɹˈɪnstən,/ˈpɹɪnstən/,gpt-4o
+proficiency,pɹəfˈɪʃənsi,/prəˈfɪʃənsi/,gpt-4o
+proliferation,pɹˌoʊlɪfɚˈeɪʃən,/prəˌlɪfəˈɹeɪʃən/,gpt-4o
+promote,pɹəmˈoʊt,/prəˈmoʊt/,gpt-4o
+promoting,pɹəmˈoʊtɪŋ,/prəˈmoʊtɪŋ/,gpt-4o
+promotional,pɹəmˈoʊʃənəl,/prəˈmoʊʃənl̩/,gpt-4o
+pronounced,pɹənˈaʊnst,/prəˈnaʊnst/,gpt-4o
+prototype,pɹˈoʊtətˌaɪp,The General American English phonemic transcription for 'prototype' is /ˈpɹoʊtəˌtaɪp/.,gpt-4o
+prototyping,pɹˈoʊtətɪpɪŋ,/prˈoʊtəˌtaɪpɪŋ/,gpt-4o
+pseudo,sˈuːdoʊ,The General American English phonemic transcription for 'pseudo' is /ˈsudoʊ/.,gpt-4o
+public,pˈʌblɪk,/pʌblɪk/,gpt-4o
+publicly,pˈʌblɪkli,/pˈʌblɪkli/,gpt-4o
+publish,pˈʌblɪʃ,/pʌblɪʃ/,gpt-4o
+published,pˈʌblɪʃt,/pʌblɪʃt/,gpt-4o
+publishing,pˈʌblɪʃɪŋ,/pʌblɪʃɪŋ/,gpt-4o
+pun,pˈʌn,/pʌn/,gpt-4o
+pupil,pjˈuːpəl,/pjuːpəl/,gpt-4o
+puppies,pˈʌpiz,The General American English phonemic transcription for 'puppies' is /ˈpʌpiz/.,gpt-4o
+puppy,pˈʌpi,The General American English phonemic transcription for 'puppy' is /ˈpʌpi/.,gpt-4o
+purification,pjˌʊɹəfəkˈeɪʃən,/pjʊɹəfəˈkeɪʃən/,gpt-4o
+purse,pˈɚs,/pɝs/,gpt-4o
+pursuit,pɚsˈuːt,/pɚˈsut/,gpt-4o
+python,pˈaɪθɑn,/ˈpaɪθɑn/,gpt-4o
+quad,kwˈɑːd,The General American English phonemic transcription for 'quad' is /kwɑd/.,gpt-4o
+quarter,kwˈɔːɹtɚ,/ˈkwɔɹtɚ/,gpt-4o
+racism,ɹˈeɪsˌɪzəm,/ˈɹeɪˌsɪzəm/,gpt-4o
+raid,ɹˈeɪd,/ɹeɪd/,gpt-4o
+rail,ɹˈeɪl,The General American English phonemic transcription for 'rail' is /ɹeɪl/.,gpt-4o
+rare,ɹˈɛɹ,/ɹɛɹ/,gpt-4o
+raymond,ɹˈeɪmənd,/ˈɹeɪmənd/,gpt-4o
+reach,ɹˈiːtʃ,/ɹitʃ/,gpt-4o
+reached,ɹˈiːtʃt,/ɹitʃt/,gpt-4o
+reaches,ɹˈiːtʃəz,The General American English phonemic transcription for 'reaches' is /ˈɹitʃɪz/.,gpt-4o
+reaching,ɹˈiːtʃɪŋ,/ˈɹitʃɪŋ/,gpt-4o
+realm,ɹˈɛlm,The General American English phonemic transcription for 'realm' is /ɹɛlm/.,gpt-4o
+rebirth,ɹibˈɚθ,/rɪˈbɝθ/,gpt-4o
+receive,ɹəsˈiːv,/rɪˈsiv/,gpt-4o
+received,ɹəsˈiːvd,/rɪˈsivd/,gpt-4o
+receiver,ɹəsˈiːvɚ,/rɪˈsivɚ/,gpt-4o
+receives,ɹəsˈiːvz,/rɪˈsivz/,gpt-4o
+receiving,ɹəsˈiːvɪŋ,/rɪˈsivɪŋ/,gpt-4o
+red,ɹˈɛd,/red/,gpt-4o
+redundant,ɹɪdˈʌndənt,/rɪˈdʌndənt/,gpt-4o
+reforms,ɹəfˈɔːɹmz,/rɪˈfɔɹmz/,gpt-4o
+refrain,ɹɪfɹˈeɪn,/rɪˈfɹeɪn/,gpt-4o
+refresh,ɹˈɪfɹɛʃ,/rɪˈfɹɛʃ/,gpt-4o
+refreshing,ɹɪfɹˈɛʃɪŋ,/rɪˈfɹɛʃɪŋ/,gpt-4o
+relax,ɹɪlˈæks,/rɪˈlæks/,gpt-4o
+relaxed,ɹɪlˈækst,/rɪˈlækst/,gpt-4o
+relevant,ɹˈɛləvənt,/ˈɹɛləvənt/,gpt-4o
+relieve,ɹɪlˈiːv,/rɪˈliv/,gpt-4o
+relieved,ɹɪlˈiːvd,/rɪˈlivd/,gpt-4o
+religion,ɹɪlˈɪdʒən,/rɪˈlɪdʒən/,gpt-4o
+relish,ɹˈɛlɪʃ,The General American English phonemic transcription for 'relish' is /ˈɹɛlɪʃ/.,gpt-4o
+require,ɹˌikwˈaɪɚ,/rɪˈkwaɪɹ/,gpt-4o
+required,ɹikwˈaɪɚd,/rɪˈkwaɪɚd/,gpt-4o
+requires,ɹikwˈaɪɚz,/rɪˈkwaɪɹz/,gpt-4o
+requiring,ɹikwˈaɪɚɪŋ,/rɪˈkwaɪɹɪŋ/,gpt-4o
+rescue,ɹˈɛskju,The General American English phonemic transcription for 'rescue' is /ˈɹɛskju/.,gpt-4o
+rescued,ɹˈɛskjud,The General American English phonemic transcription for 'rescued' is /ˈɹɛskjud/.,gpt-4o
+residue,ɹˈɛzədˌu,The General American English phonemic transcription for 'residue' is /ˈɹɛzɪˌdu/.,gpt-4o
+respond,ɹɪspˈɑːnd,/rɪˈspɑnd/,gpt-4o
+responded,ɹɪspˈɑːndɪd,/rɪˈspɑndɪd/,gpt-4o
+return,ɹɪtˈɚn,/rɪˈtɝn/,gpt-4o
+returned,ɹɪtˈɚnd,/rɪˈtɝnd/,gpt-4o
+returning,ɹɪtˈɚnɪŋ,/rɪˈtɝnɪŋ/,gpt-4o
+returns,ɹɪtˈɚnz,/rɪˈtɜɹnz/,gpt-4o
+revenge,ɹivˈɛndʒ,/rɪˈvɛndʒ/,gpt-4o
+rid,ɹˈɪd,/rɪd/,gpt-4o
+rig,ɹˈɪg,/ɹɪɡ/,gpt-4o
+rigging,ɹˈɪgɪŋ,The General American English phonemic transcription for 'rigging' is /ˈɹɪɡɪŋ/.,gpt-4o
+rigs,ɹˈɪgz,/rɪɡz/,gpt-4o
+rinse,ɹˈɪns,/rɪns/,gpt-4o
+riot,ɹˈaɪət,/ˈɹaɪət/,gpt-4o
+ripped,ɹˈɪpt,/rɪpt/,gpt-4o
+road,ɹˈoʊd,/ɹoʊd/,gpt-4o
+robert,ɹˈɑːbɚt,/ˈɹɑbɚt/,gpt-4o
+rochester,ɹˈɑːtʃˌɛstɚ,/ˈɹɑːtʃɛstɚ/,gpt-4o
+rock,ɹˈɑːk,/ɹɑk/,gpt-4o
+rocket,ɹˈɑːkət,The General American English phonemic transcription for 'rocket' is /ˈɹɑkɪt/.,gpt-4o
+rocks,ɹˈɑːks,/rɑks/,gpt-4o
+rome,ɹˈoʊm,/ɹoʊm/,gpt-4o
+rope,ɹˈoʊp,/ɹoʊp/,gpt-4o
+ropes,ɹˈoʊps,/ɹoʊps/,gpt-4o
+rosemary,ɹˈoʊzmˌɛɹi,/ˈɹoʊzˌmɛɹi/,gpt-4o
+rotate,ɹˈoʊtˌeɪt,/ˈɹoʊˌteɪt/,gpt-4o
+rotor,ɹˈoʊtɚ,/ˈɹoʊtɚ/,gpt-4o
+routine,ɹutˈiːn,/rutˈin/,gpt-4o
+rue,ɹˈuː,/ru/,gpt-4o
+russian,ɹˈʌʃən,The General American English phonemic transcription for 'russian' is /ˈɹʌʃən/.,gpt-4o
+sac,sˈæk,The General American English phonemic transcription for 'sac' is /sæk/.,gpt-4o
+safeguard,sˈeɪfgˌɑɹd,/ˈseɪfˌɡɑɹd/,gpt-4o
+safety,sˈeɪfti,/ˈseɪfti/,gpt-4o
+sage,sˈeɪdʒ,The General American English phonemic transcription for 'sage' is /seɪdʒ/.,gpt-4o
+saints,sˈeɪnts,/seɪnts/,gpt-4o
+salvation,sælvˈeɪʃən,/sælˈveɪʃən/,gpt-4o
+sap,sˈæp,/sæp/,gpt-4o
+sassy,sˈæsi,The General American English phonemic transcription for 'sassy' is /ˈsæsi/.,gpt-4o
+scrub,skɹˈʌb,/skɹʌb/,gpt-4o
+seemingly,sˈiːmɪŋli,/ˈsimɪŋli/,gpt-4o
+select,səlˈɛkt,/səˈlɛkt/,gpt-4o
+selected,səlˈɛktəd,/səˈlɛktɪd/,gpt-4o
+selena,səlˈiːnə,/səˈlinə/,gpt-4o
+send,sˈɛnd,The General American English phonemic transcription for 'send' is /sɛnd/.,gpt-4o
+sending,sˈɛndɪŋ,/ˈsɛndɪŋ/,gpt-4o
+sends,sˈɛndz,/sɛndz/,gpt-4o
+sent,sˈɛnt,/sɛnt/,gpt-4o
+sergeant,sˈɑːɹdʒənt,The General American English phonemic transcription for 'sergeant' is /ˈsɑɹdʒənt/.,gpt-4o
+seven,sˈɛvən,/sevən/,gpt-4o
+sewing,sˈoʊɪŋ,/seɪŋ/,gpt-4o
+sewn,sˈoʊn,/sewn/,gpt-4o
+sex,sˈɛks,/sɛks/,gpt-4o
+seymour,sˈiːmɔɹ,/ˈsimɔɹ/,gpt-4o
+shake,ʃˈeɪk,/ʃeɪk/,gpt-4o
+shakes,ʃˈeɪks,The General American English phonemic transcription for 'shakes' is /ʃeɪks/.,gpt-4o
+shaking,ʃˈeɪkɪŋ,/ˈʃeɪkɪŋ/,gpt-4o
+shallow,ʃˈæloʊ,/ˈʃæloʊ/,gpt-4o
+shanghai,ʃˈæŋhˈaɪ,/ʃæŋˈhaɪ/,gpt-4o
+shelley,ʃˈɛli,/ˈʃɛli/,gpt-4o
+shemale,ʃəmˈeɪl,The General American English phonemic transcription for 'shemale' is /ˈʃiˌmeɪl/.,gpt-4o
+shimmer,ʃˈɪmɚ,/ˈʃɪmɚ/,gpt-4o
+ship,ʃˈɪp,The General American English phonemic transcription for 'ship' is /ʃɪp/.,gpt-4o
+shipment,ʃˈɪpmənt,/ˈʃɪpmənt/,gpt-4o
+shipped,ʃˈɪpt,/ʃɪpt/,gpt-4o
+shipping,ʃˈɪpɪŋ,The General American English phonemic transcription for 'shipping' is /ˈʃɪpɪŋ/.,gpt-4o
+ships,ʃˈɪps,The General American English phonemic transcription for 'ships' is /ʃɪps/.,gpt-4o
+shoe,ʃˈuː,/ʃu/,gpt-4o
+shoes,ʃˈuːz,/ʃuz/,gpt-4o
+shook,ʃˈʊk,/ʃʊk/,gpt-4o
+sic,sˈɪk,/sɪk/,gpt-4o
+sich,sˈɪtʃ,"The word 'sich' does not have a standard pronunciation in General American English, as it is not a recognized English word. If you meant a different word or need assistance with a specific context, please provide more details.",gpt-4o
+sie,sˈiː,"The word 'sie' does not have a standard pronunciation in General American English as it is not a common English word. However, if you are referring to a name or a borrowed term, it might be pronounced as /si/ in GAE, similar to the pronunciation of the letter 'C'.",gpt-4o
+sienna,siˈɛnə,/siˈɛnə/,gpt-4o
+sink,sˈɪŋk,/sɪŋk/,gpt-4o
+sinking,sˈɪŋkɪŋ,/ˈsɪŋkɪŋ/,gpt-4o
+sinks,sˈɪŋks,/sɪŋks/,gpt-4o
+sins,sˈɪnz,/sɪnz/,gpt-4o
+sir,sˈɚ,/sɝ/,gpt-4o
+skeleton,skˈɛlətən,/ˈskɛlɪtən/,gpt-4o
+sketch,skˈɛtʃ,/skɛtʃ/,gpt-4o
+sketches,skˈɛtʃəz,/skɛtʃɪz/,gpt-4o
+ski,skˈiː,/ski/,gpt-4o
+skiing,skˈiːɪŋ,The General American English phonemic transcription for 'skiing' is /ˈskiɪŋ/.,gpt-4o
+skype,skˈaɪp,/skɑɪp/,gpt-4o
+slip,slˈɪp,/slɪp/,gpt-4o
+slipped,slˈɪpt,/slɪpt/,gpt-4o
+slipping,slˈɪpɪŋ,The General American English phonemic transcription for 'slipping' is /ˈslɪpɪŋ/.,gpt-4o
+slutty,slˈʌtˌi,The General American English phonemic transcription for 'slutty' is /ˈslʌti/.,gpt-4o
+snapchat,snˈæptʃˌæt,/sˈnæpˌtʃæt/,gpt-4o
+snowflake,snˈoʊflˌeɪk,/snoʊfleɪk/,gpt-4o
+soap,sˈoʊp,/soʊp/,gpt-4o
+social,sˈoʊʃəl,The General American English phonemic transcription for 'social' is /ˈsoʊʃəl/.,gpt-4o
+socialist,sˈoʊʃələst,The General American English phonemic transcription for 'socialist' is /ˈsoʊʃəlɪst/.,gpt-4o
+solution,səlˈuːʃən,/səˈluʃən/,gpt-4o
+some,sˈʌm,/sʌm/,gpt-4o
+somehow,sˈʌmhˌaʊ,The General American English phonemic transcription for 'somehow' is /ˈsʌmhaʊ/.,gpt-4o
+someone,sˈʌmwˌʌn,The General American English phonemic transcription for 'someone' is /ˈsʌmwʌn/.,gpt-4o
+sony,sˈoʊni,/ˈsoʊni/,gpt-4o
+sooner,sˈuːnɚ,/ˈsunɚ/,gpt-4o
+sophistication,səfˌɪstəkˈeɪʃən,/səˌfɪstəˈkeɪʃən/,gpt-4o
+souvenir,sˌuvənˈɪɹ,/suvəˈnɪɹ/,gpt-4o
+spare,spˈɛɹ,/spɛɹ/,gpt-4o
+speak,spˈiːk,The General American English phonemic transcription for 'speak' is /spik/.,gpt-4o
+specialty,spˈɛʃəlti,The General American English phonemic transcription for 'specialty' is /ˈspɛʃəlti/.,gpt-4o
+specimen,spˈɛsəmən,The General American English phonemic transcription for 'specimen' is /ˈspɛsəmən/.,gpt-4o
+speed,spˈiːd,The General American English phonemic transcription for 'speed' is /spid/.,gpt-4o
+speeding,spˈiːdɪŋ,The General American English phonemic transcription for 'speeding' is /ˈspidɪŋ/.,gpt-4o
+spencer,spˈɛnsɚ,/spɛnsɹ̩/,gpt-4o
+spoken,spˈoʊkən,/spoʊkən/,gpt-4o
+sprinkler,spɹˈɪŋklɚ,/sˈpɹɪŋklɚ/,gpt-4o
+stage,stˈeɪdʒ,/stɛɪdʒ/,gpt-4o
+stages,stˈeɪdʒəz,The General American English phonemic transcription for 'stages' is /ˈsteɪdʒɪz/.,gpt-4o
+state,stˈeɪt,The General American English phonemic transcription for 'state' is /steɪt/.,gpt-4o
+stated,stˈeɪtəd,/stetɪd/,gpt-4o
+states,stˈeɪts,The General American English phonemic transcription for 'states' is /steɪts/.,gpt-4o
+stating,stˈeɪtɪŋ,The General American English phonemic transcription for 'stating' is /ˈsteɪtɪŋ/.,gpt-4o
+status,stˈætəs,The General American English phonemic transcription for 'status' is /ˈstætəs/.,gpt-4o
+statute,stˈætʃut,The General American English phonemic transcription for 'statute' is /ˈstætʃut/.,gpt-4o
+steam,stˈiːm,The General American English phonemic transcription for 'steam' is /stim/.,gpt-4o
+steer,stˈɪɹ,The General American English phonemic transcription for 'steer' is /stɪɹ/.,gpt-4o
+stern,stˈɚn,/stɝn/,gpt-4o
+still,stˈɪl,/stɪl/,gpt-4o
+stone,stˈoʊn,/stoʊn/,gpt-4o
+stones,stˈoʊnz,The General American English phonemic transcription for 'stones' is /stoʊnz/.,gpt-4o
+stove,stˈoʊv,/stoʊv/,gpt-4o
+strait,stɹˈeɪt,/stɹeɪt/,gpt-4o
+strategist,stɹˈætɪdʒɪst,/ˈstɹætədʒɪst/,gpt-4o
+stripe,stɹˈaɪp,/stɹaɪp/,gpt-4o
+striped,stɹˈaɪpt,/stɹaɪpt/,gpt-4o
+stripes,stɹˈaɪps,/stɹaɪps/,gpt-4o
+strong,stɹˈɔːŋ,/stɹɔŋ/,gpt-4o
+strongly,stɹˈɔːŋli,/ˈstɹɔŋli/,gpt-4o
+sublime,səblˈaɪm,/səˈblaɪm/,gpt-4o
+suede,swˈeɪd,The General American English phonemic transcription for 'suede' is /sweɪd/.,gpt-4o
+sunny,sˈʌni,The General American English phonemic transcription for 'sunny' is /ˈsʌni/.,gpt-4o
+sunshine,sˈʌnʃˌaɪn,The General American English phonemic transcription for 'sunshine' is /ˈsʌnˌʃaɪn/.,gpt-4o
+supporter,səpˈɔːɹtɚ,/səˈpɔɹtɚ/,gpt-4o
+suspend,səspˈɛnd,/səˈspɛnd/,gpt-4o
+suspended,səspˈɛndəd,/səˈspɛndɪd/,gpt-4o
+sustainability,səstˌeɪnəbˈɪlɪti,/səˌsteɪnəˈbɪləti/,gpt-4o
+swap,swˈɑːp,/swɑp/,gpt-4o
+swiftly,swˈɪftli,The General American English phonemic transcription for 'swiftly' is /ˈswɪftli/.,gpt-4o
+swivel,swˈɪvəl,/ˈswɪvəl/,gpt-4o
+symptom,sˈɪmptəm,/sɪmptəm/,gpt-4o
+synthesis,sˈɪnθəsəs,The General American English phonemic transcription for 'synthesis' is /ˈsɪnθəsɪs/.,gpt-4o
+syrian,sˈɪɹiən,/sɪɹiən/,gpt-4o
+tang,tˈæŋ,/tæŋ/,gpt-4o
+tapestry,tˈæpəstɹi,/ˈtæpəstɹi/,gpt-4o
+tattoo,tætˈuː,/tæˈtu/,gpt-4o
+taught,tˈɔːt,/tɔt/,gpt-4o
+taxation,tæksˈeɪʃən,/tækˈseɪʃən/,gpt-4o
+teaching,tˈiːtʃɪŋ,/ˈtitʃɪŋ/,gpt-4o
+teaspoon,tˈiːspˌun,/ˈtiˌspun/,gpt-4o
+tech,tˈɛk,/tɛk/,gpt-4o
+techno,tˈɛknoʊ,/ˈtɛknoʊ/,gpt-4o
+teller,tˈɛlɚ,/tɛlɚ/,gpt-4o
+temporarily,tˌɛmpɚˈɛɹəli,/ˈtɛmpəˌɹɛɹəli/,gpt-4o
+temptation,tɛmtˈeɪʃən,/tɛmpˈteɪʃən/,gpt-4o
+tension,tˈɛnʃən,The General American English phonemic transcription for 'tension' is /ˈtɛnʃən/.,gpt-4o
+terrified,tˈɛɹəfˌaɪd,/ˈtɛɹəˌfaɪd/,gpt-4o
+terrifying,tˈɛɹəfˌaɪɪŋ,/ˈtɛɹəˌfaɪɪŋ/,gpt-4o
+territorial,tˌɛɹɪtˈɔːɹiəl,/ˌtɛɹɪˈtɔɹiəl/,gpt-4o
+thereby,ðˈɛɹbˈaɪ,/ˌðɛɹˈbaɪ/,gpt-4o
+thermal,θˈɚməl,/ˈθɝməl/,gpt-4o
+thing,θˈɪŋ,The General American English phonemic transcription for 'thing' is /θɪŋ/.,gpt-4o
+things,θˈɪŋz,/θɪŋz/,gpt-4o
+though,ðˈoʊ,/ðoʊ/,gpt-4o
+three,θɹˈiː,/θɹi/,gpt-4o
+thriller,θɹˈɪlɚ,/ˈθɹɪlɚ/,gpt-4o
+thrive,θɹˈaɪv,/θɹaɪv/,gpt-4o
+thriving,θɹˈaɪvɪŋ,/ˈθɹaɪvɪŋ/,gpt-4o
+tiffany,tˈɪfəni,/ˈtɪfəni/,gpt-4o
+time,tˈaɪm,/taɪm/,gpt-4o
+times,tˈaɪmz,/taɪmz/,gpt-4o
+timing,tˈaɪmɪŋ,/ˈtaɪmɪŋ/,gpt-4o
+togo,tˈoʊgoʊ,/təˈɡoʊ/,gpt-4o
+tor,tˈɔːɹ,/tɔɹ/,gpt-4o
+touch,tˈʌtʃ,/tʌtʃ/,gpt-4o
+touched,tˈʌtʃt,/tʌtʃt/,gpt-4o
+touches,tˈʌtʃəz,/tʌtʃɪz/,gpt-4o
+touching,tˈʌtʃɪŋ,/tʌtʃɪŋ/,gpt-4o
+traits,tɹˈeɪts,/tɹeɪts/,gpt-4o
+trap,tɹˈæp,/træp/,gpt-4o
+traps,tɹˈæps,/træps/,gpt-4o
+trek,tɹˈɛk,/tɹɛk/,gpt-4o
+trent,tɹˈɛnt,/trɛnt/,gpt-4o
+tribal,tɹˈaɪbəl,/ˈtɹaɪbəl/,gpt-4o
+tribune,tɹˈɪbjun,/ˈtɹɪbjun/,gpt-4o
+trivia,tɹˈɪviə,/trɪviə/,gpt-4o
+true,tɹˈuː,/tru/,gpt-4o
+tub,tˈʌb,/tʌb/,gpt-4o
+tunnel,tˈʌnəl,/ˈtʌnəl/,gpt-4o
+twice,twˈaɪs,/twaɪs/,gpt-4o
+tyson,tˈaɪsən,/ˈtaɪsən/,gpt-4o
+ultimately,ˈʌltəmətli,/ˈʌltəmətli/,gpt-4o
+ultra,ˈʌltɹə,/ˈʌltɹə/,gpt-4o
+unaware,ˌʌnəwˈɛɹ,/ˌʌnəˈwɛɹ/,gpt-4o
+uncertain,ənsˈɚtən,/ənˈsɝtn̩/,gpt-4o
+uncommon,ənkˈɑːmən,/ʌnˈkɑmən/,gpt-4o
+unfair,ənfˈɛɹ,/ʌnˈfɛɹ/,gpt-4o
+unleash,ənlˈiːʃ,/ənˈliʃ/,gpt-4o
+unlimited,ənlˈɪmətəd,The General American English phonemic transcription for 'unlimited' is /ʌnˈlɪmɪtɪd/.,gpt-4o
+usher,ˈʌʃɚ,The General American English phonemic transcription for 'usher' is /ˈʌʃɚ/.,gpt-4o
+vegetarian,vˌɛdʒətˈɛɹiən,/ˌvɛdʒəˈtɛɹiən/,gpt-4o
+vegetation,vˌɛdʒətˈeɪʃən,/ˌvɛdʒəˈteɪʃən/,gpt-4o
+veil,vˈeɪl,/veɪl/,gpt-4o
+versatile,vˈɚsətəl,/ˈvɝsətəl/,gpt-4o
+versatility,vˌɚsətˈɪləti,/vɝsəˈtɪləti/,gpt-4o
+vessels,vˈɛsəlz,/vɛsəlz/,gpt-4o
+victim,vˈɪktəm,The General American English phonemic transcription for 'victim' is /ˈvɪktɪm/.,gpt-4o
+vine,vˈaɪn,The General American English phonemic transcription for 'vine' is /vaɪn/.,gpt-4o
+violate,vˈaɪəleɪt,/ˈvaɪəˌleɪt/,gpt-4o
+violated,vˈaɪəleɪtɪd,The General American English phonemic transcription for 'violated' is /ˈvaɪəˌleɪtɪd/.,gpt-4o
+violating,vˈaɪəleɪtɪŋ,/ˈvaɪəˌleɪtɪŋ/,gpt-4o
+vulnerability,vˌʌlnɚəbˈɪlɪti,/vʌlnɚəˈbɪləti/,gpt-4o
+wade,wˈeɪd,The General American English phonemic transcription for 'wade' is /weɪd/.,gpt-4o
+warfare,wˈɔːɹfˌɛɹ,/ˈwɔɹfɛɹ/,gpt-4o
+way,wˈeɪ,/weɪ/,gpt-4o
+ways,wˈeɪz,The General American English phonemic transcription for 'ways' is /weɪz/.,gpt-4o
+weaker,wˈiːkɚ,/ˈwikɚ/,gpt-4o
+weakness,wˈiːknəs,/ˈwiknəs/,gpt-4o
+wealthy,wˈɛlθi,/ˈwɛlθi/,gpt-4o
+weapons,wˈɛpənz,The General American English phonemic transcription for 'weapons' is /ˈwɛpənz/.,gpt-4o
+weave,wˈiːv,/wev/,gpt-4o
+weaving,wˈiːvɪŋ,The General American English phonemic transcription for 'weaving' is /ˈwivɪŋ/.,gpt-4o
+web,wˈɛb,The General American English phonemic transcription for 'web' is /wɛb/.,gpt-4o
+webcam,wˈɛbkˌæm,/ˈwɛbˌkæm/,gpt-4o
+wedge,wˈɛdʒ,The General American English phonemic transcription for 'wedge' is /wɛdʒ/.,gpt-4o
+weigh,wˈeɪ,The General American English phonemic transcription for 'weigh' is /weɪ/.,gpt-4o
+weighed,wˈeɪd,The General American English phonemic transcription for 'weighed' is /weɪd/.,gpt-4o
+weighing,wˈeɪɪŋ,The General American English phonemic transcription for 'weighing' is /ˈweɪɪŋ/.,gpt-4o
+weighs,wˈeɪz,The General American English phonemic transcription for 'weighs' is /weɪz/.,gpt-4o
+weight,wˈeɪt,The General American English phonemic transcription for 'weight' is /weɪt/.,gpt-4o
+weighted,wˈeɪtɪd,/ˈweɪtɪd/,gpt-4o
+weights,wˈeɪts,The General American English phonemic transcription for 'weights' is /weɪts/.,gpt-4o
+welcome,wˈɛlkəm,/ˈwɛlkəm/,gpt-4o
+welcomed,wˈɛlkəmd,/ˈwɛlkəmd/,gpt-4o
+well,wˈɛl,The General American English phonemic transcription for 'well' is /wɛl/.,gpt-4o
+wells,wˈɛlz,The General American English phonemic transcription for 'wells' is /wɛlz/.,gpt-4o
+wharf,wˈɔːɹf,/wɔɹf/,gpt-4o
+wichita,wˈɪtʃətˌɔ,/ˈwɪtʃɪtɔ/,gpt-4o
+wider,wˈaɪdɚ,/ˈwaɪdɚ/,gpt-4o
+wii,wˈiː,The word 'wii' is transcribed in General American English as /wiː/.,gpt-4o
+win,wˈɪn,The General American English phonemic transcription for 'win' is /wɪn/.,gpt-4o
+wink,wˈɪŋk,/wɪŋk/,gpt-4o
+winning,wˈɪnɪŋ,The General American English phonemic transcription for 'winning' is /ˈwɪnɪŋ/.,gpt-4o
+wins,wˈɪnz,The General American English phonemic transcription for 'wins' is /wɪnz/.,gpt-4o
+wire,wˈaɪɚ,The General American English phonemic transcription for 'wire' is /waɪɹ/.,gpt-4o
+wired,wˈaɪɚd,/waɪɹd/,gpt-4o
+wires,wˈaɪɚz,The General American English phonemic transcription for 'wires' is /waɪɹz/.,gpt-4o
+witch,wˈɪtʃ,The General American English phonemic transcription for 'witch' is /wɪtʃ/.,gpt-4o
+wool,wˈʊl,/wʊl/,gpt-4o
+workflow,wˈɚkflˌoʊ,/ˈwɝkfloʊ/,gpt-4o
+woven,wˈoʊvən,The General American English phonemic transcription for 'woven' is /ˈwoʊvən/.,gpt-4o
+yelp,jˈɛlp,/jɛlp/,gpt-4o
+yemen,jˈɛmən,The General American English phonemic transcription for 'Yemen' is /ˈjɛmən/.,gpt-4o
+zambia,zˈæmbiə,/zæmbiə/,gpt-4o
+zip,zˈɪp,/zɪp/,gpt-4o
+zodiac,zˈoʊdiˌæk,The General American English phonemic transcription for 'zodiac' is /ˈzoʊdiˌæk/.,gpt-4o

@@ -1,0 +1,9 @@
+model,low_frequency,high_frequency
+Qwen_Qwen2_5-72B-Instruct,43.38,28.36
+Qwen_Qwen2_5-7B-Instruct,21.59,12.67
+google_gemma-2-27b-it,46.74,30.37
+google_gemma-2-9b-it,38.77,25.91
+meta-llama_Llama-3_1-8B-Instruct,36.08,22.84
+meta-llama_Llama-3_3-70B-Instruct,45.3,31.09
+mistralai_Ministral-8B-Instruct-2410,32.63,20.97
+mistralai_Mistral-7B-Instruct-v0_2,22.74,13.96
