@@ -38,8 +38,8 @@ This method leverages structured guidance to activate latent phonological abilit
 P-CoT/
 ├── 📊 benchmark_dataset/          # PhonologyBench evaluation datasets
 │   ├── g2p/                      # Grapheme-to-Phoneme conversion data
-│   │   ├── g2p_high_frequency.json    # 2,084 high-frequency words
-│   │   └── g2p_low_frequency.json     # 1,042 low-frequency words
+│   │   ├── g2p_high_frequency.json    # 1,042 high-frequency words
+│   │   └── g2p_low_frequency.json     # 2,084 low-frequency words
 │   ├── rhyme_word_generation/    # Rhyme generation benchmarks
 │   │   ├── rhyme_common.csv           # 199 common words
 │   │   └── rhyme_rare_fixed.csv       # 110 rare words
@@ -78,7 +78,7 @@ Transform written text into phonetic representations using IPA notation.
 - Input: `"basement"`
 - Output: `/beɪsmənt/`
 
-**Dataset:** 3,126 words (2,084 high-frequency, 1,042 low-frequency)
+**Dataset:** 3,126 words (1,042 high-frequency, 2,084 low-frequency)
 
 ### 2. 🎵 Rhyme Word Generation
 Generate words that rhyme with given inputs, testing phonological pattern recognition.
