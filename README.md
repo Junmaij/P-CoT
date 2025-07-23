@@ -6,7 +6,7 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-2024.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2024.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2024.xxxxx-b31b1b.svg)]([https://arxiv.org/abs/2024.xxxxx](https://arxiv.org/submit/6642522/view))
 
 **Authors:** Dongjun Jang, Youngchae Ahn, Hyopil Shin  
 *Department of Linguistics, Seoul National University*
